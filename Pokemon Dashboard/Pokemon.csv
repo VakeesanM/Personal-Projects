@@ -1,0 +1,1303 @@
+Name,ID,Primary Type,Secondary Type,Height,Weight,HP,Attack,Defense,Special Attack,Special Defense,Speed,Generation,Region
+bulbasaur,1,grass,poison,7,69,45,49,49,65,65,45,1,Kanto
+ivysaur,2,grass,poison,10,130,60,62,63,80,80,60,1,Kanto
+venusaur,3,grass,poison,20,1000,80,82,83,100,100,80,1,Kanto
+charmander,4,fire,No Type,6,85,39,52,43,60,50,65,1,Kanto
+charmeleon,5,fire,No Type,11,190,58,64,58,80,65,80,1,Kanto
+charizard,6,fire,flying,17,905,78,84,78,109,85,100,1,Kanto
+squirtle,7,water,No Type,5,90,44,48,65,50,64,43,1,Kanto
+wartortle,8,water,No Type,10,225,59,63,80,65,80,58,1,Kanto
+blastoise,9,water,No Type,16,855,79,83,100,85,105,78,1,Kanto
+caterpie,10,bug,No Type,3,29,45,30,35,20,20,45,1,Kanto
+metapod,11,bug,No Type,7,99,50,20,55,25,25,30,1,Kanto
+butterfree,12,bug,flying,11,320,60,45,50,90,80,70,1,Kanto
+weedle,13,bug,poison,3,32,40,35,30,20,20,50,1,Kanto
+kakuna,14,bug,poison,6,100,45,25,50,25,25,35,1,Kanto
+beedrill,15,bug,poison,10,295,65,90,40,45,80,75,1,Kanto
+pidgey,16,normal,flying,3,18,40,45,40,35,35,56,1,Kanto
+pidgeotto,17,normal,flying,11,300,63,60,55,50,50,71,1,Kanto
+pidgeot,18,normal,flying,15,395,83,80,75,70,70,101,1,Kanto
+rattata,19,normal,No Type,3,35,30,56,35,25,35,72,1,Kanto
+raticate,20,normal,No Type,7,185,55,81,60,50,70,97,1,Kanto
+spearow,21,normal,flying,3,20,40,60,30,31,31,70,1,Kanto
+fearow,22,normal,flying,12,380,65,90,65,61,61,100,1,Kanto
+ekans,23,poison,No Type,20,69,35,60,44,40,54,55,1,Kanto
+arbok,24,poison,No Type,35,650,60,95,69,65,79,80,1,Kanto
+pikachu,25,electric,No Type,4,60,35,55,40,50,50,90,1,Kanto
+raichu,26,electric,No Type,8,300,60,90,55,90,80,110,1,Kanto
+sandshrew,27,ground,No Type,6,120,50,75,85,20,30,40,1,Kanto
+sandslash,28,ground,No Type,10,295,75,100,110,45,55,65,1,Kanto
+nidoran-f,29,poison,No Type,4,70,55,47,52,40,40,41,1,Kanto
+nidorina,30,poison,No Type,8,200,70,62,67,55,55,56,1,Kanto
+nidoqueen,31,poison,ground,13,600,90,92,87,75,85,76,1,Kanto
+nidoran-m,32,poison,No Type,5,90,46,57,40,40,40,50,1,Kanto
+nidorino,33,poison,No Type,9,195,61,72,57,55,55,65,1,Kanto
+nidoking,34,poison,ground,14,620,81,102,77,85,75,85,1,Kanto
+clefairy,35,fairy,No Type,6,75,70,45,48,60,65,35,1,Kanto
+clefable,36,fairy,No Type,13,400,95,70,73,95,90,60,1,Kanto
+vulpix,37,fire,No Type,6,99,38,41,40,50,65,65,1,Kanto
+ninetales,38,fire,No Type,11,199,73,76,75,81,100,100,1,Kanto
+jigglypuff,39,normal,fairy,5,55,115,45,20,45,25,20,1,Kanto
+wigglytuff,40,normal,fairy,10,120,140,70,45,85,50,45,1,Kanto
+zubat,41,poison,flying,8,75,40,45,35,30,40,55,1,Kanto
+golbat,42,poison,flying,16,550,75,80,70,65,75,90,1,Kanto
+oddish,43,grass,poison,5,54,45,50,55,75,65,30,1,Kanto
+gloom,44,grass,poison,8,86,60,65,70,85,75,40,1,Kanto
+vileplume,45,grass,poison,12,186,75,80,85,110,90,50,1,Kanto
+paras,46,bug,grass,3,54,35,70,55,45,55,25,1,Kanto
+parasect,47,bug,grass,10,295,60,95,80,60,80,30,1,Kanto
+venonat,48,bug,poison,10,300,60,55,50,40,55,45,1,Kanto
+venomoth,49,bug,poison,15,125,70,65,60,90,75,90,1,Kanto
+diglett,50,ground,No Type,2,8,10,55,25,35,45,95,1,Kanto
+dugtrio,51,ground,No Type,7,333,35,100,50,50,70,120,1,Kanto
+meowth,52,normal,No Type,4,42,40,45,35,40,40,90,1,Kanto
+persian,53,normal,No Type,10,320,65,70,60,65,65,115,1,Kanto
+psyduck,54,water,No Type,8,196,50,52,48,65,50,55,1,Kanto
+golduck,55,water,No Type,17,766,80,82,78,95,80,85,1,Kanto
+mankey,56,fighting,No Type,5,280,40,80,35,35,45,70,1,Kanto
+primeape,57,fighting,No Type,10,320,65,105,60,60,70,95,1,Kanto
+growlithe,58,fire,No Type,7,190,55,70,45,70,50,60,1,Kanto
+arcanine,59,fire,No Type,19,1550,90,110,80,100,80,95,1,Kanto
+poliwag,60,water,No Type,6,124,40,50,40,40,40,90,1,Kanto
+poliwhirl,61,water,No Type,10,200,65,65,65,50,50,90,1,Kanto
+poliwrath,62,water,fighting,13,540,90,95,95,70,90,70,1,Kanto
+abra,63,psychic,No Type,9,195,25,20,15,105,55,90,1,Kanto
+kadabra,64,psychic,No Type,13,565,40,35,30,120,70,105,1,Kanto
+alakazam,65,psychic,No Type,15,480,55,50,45,135,95,120,1,Kanto
+machop,66,fighting,No Type,8,195,70,80,50,35,35,35,1,Kanto
+machoke,67,fighting,No Type,15,705,80,100,70,50,60,45,1,Kanto
+machamp,68,fighting,No Type,16,1300,90,130,80,65,85,55,1,Kanto
+bellsprout,69,grass,poison,7,40,50,75,35,70,30,40,1,Kanto
+weepinbell,70,grass,poison,10,64,65,90,50,85,45,55,1,Kanto
+victreebel,71,grass,poison,17,155,80,105,65,100,70,70,1,Kanto
+tentacool,72,water,poison,9,455,40,40,35,50,100,70,1,Kanto
+tentacruel,73,water,poison,16,550,80,70,65,80,120,100,1,Kanto
+geodude,74,rock,ground,4,200,40,80,100,30,30,20,1,Kanto
+graveler,75,rock,ground,10,1050,55,95,115,45,45,35,1,Kanto
+golem,76,rock,ground,14,3000,80,120,130,55,65,45,1,Kanto
+ponyta,77,fire,No Type,10,300,50,85,55,65,65,90,1,Kanto
+rapidash,78,fire,No Type,17,950,65,100,70,80,80,105,1,Kanto
+slowpoke,79,water,psychic,12,360,90,65,65,40,40,15,1,Kanto
+slowbro,80,water,psychic,16,785,95,75,110,100,80,30,1,Kanto
+magnemite,81,electric,steel,3,60,25,35,70,95,55,45,1,Kanto
+magneton,82,electric,steel,10,600,50,60,95,120,70,70,1,Kanto
+farfetchd,83,normal,flying,8,150,52,90,55,58,62,60,1,Kanto
+doduo,84,normal,flying,14,392,35,85,45,35,35,75,1,Kanto
+dodrio,85,normal,flying,18,852,60,110,70,60,60,110,1,Kanto
+seel,86,water,No Type,11,900,65,45,55,45,70,45,1,Kanto
+dewgong,87,water,ice,17,1200,90,70,80,70,95,70,1,Kanto
+grimer,88,poison,No Type,9,300,80,80,50,40,50,25,1,Kanto
+muk,89,poison,No Type,12,300,105,105,75,65,100,50,1,Kanto
+shellder,90,water,No Type,3,40,30,65,100,45,25,40,1,Kanto
+cloyster,91,water,ice,15,1325,50,95,180,85,45,70,1,Kanto
+gastly,92,ghost,poison,13,1,30,35,30,100,35,80,1,Kanto
+haunter,93,ghost,poison,16,1,45,50,45,115,55,95,1,Kanto
+gengar,94,ghost,poison,15,405,60,65,60,130,75,110,1,Kanto
+onix,95,rock,ground,88,2100,35,45,160,30,45,70,1,Kanto
+drowzee,96,psychic,No Type,10,324,60,48,45,43,90,42,1,Kanto
+hypno,97,psychic,No Type,16,756,85,73,70,73,115,67,1,Kanto
+krabby,98,water,No Type,4,65,30,105,90,25,25,50,1,Kanto
+kingler,99,water,No Type,13,600,55,130,115,50,50,75,1,Kanto
+voltorb,100,electric,No Type,5,104,40,30,50,55,55,100,1,Kanto
+electrode,101,electric,No Type,12,666,60,50,70,80,80,150,1,Kanto
+exeggcute,102,grass,psychic,4,25,60,40,80,60,45,40,1,Kanto
+exeggutor,103,grass,psychic,20,1200,95,95,85,125,75,55,1,Kanto
+cubone,104,ground,No Type,4,65,50,50,95,40,50,35,1,Kanto
+marowak,105,ground,No Type,10,450,60,80,110,50,80,45,1,Kanto
+hitmonlee,106,fighting,No Type,15,498,50,120,53,35,110,87,1,Kanto
+hitmonchan,107,fighting,No Type,14,502,50,105,79,35,110,76,1,Kanto
+lickitung,108,normal,No Type,12,655,90,55,75,60,75,30,1,Kanto
+koffing,109,poison,No Type,6,10,40,65,95,60,45,35,1,Kanto
+weezing,110,poison,No Type,12,95,65,90,120,85,70,60,1,Kanto
+rhyhorn,111,ground,rock,10,1150,80,85,95,30,30,25,1,Kanto
+rhydon,112,ground,rock,19,1200,105,130,120,45,45,40,1,Kanto
+chansey,113,normal,No Type,11,346,250,5,5,35,105,50,1,Kanto
+tangela,114,grass,No Type,10,350,65,55,115,100,40,60,1,Kanto
+kangaskhan,115,normal,No Type,22,800,105,95,80,40,80,90,1,Kanto
+horsea,116,water,No Type,4,80,30,40,70,70,25,60,1,Kanto
+seadra,117,water,No Type,12,250,55,65,95,95,45,85,1,Kanto
+goldeen,118,water,No Type,6,150,45,67,60,35,50,63,1,Kanto
+seaking,119,water,No Type,13,390,80,92,65,65,80,68,1,Kanto
+staryu,120,water,No Type,8,345,30,45,55,70,55,85,1,Kanto
+starmie,121,water,psychic,11,800,60,75,85,100,85,115,1,Kanto
+mr-mime,122,psychic,fairy,13,545,40,45,65,100,120,90,1,Kanto
+scyther,123,bug,flying,15,560,70,110,80,55,80,105,1,Kanto
+jynx,124,ice,psychic,14,406,65,50,35,115,95,95,1,Kanto
+electabuzz,125,electric,No Type,11,300,65,83,57,95,85,105,1,Kanto
+magmar,126,fire,No Type,13,445,65,95,57,100,85,93,1,Kanto
+pinsir,127,bug,No Type,15,550,65,125,100,55,70,85,1,Kanto
+tauros,128,normal,No Type,14,884,75,100,95,40,70,110,1,Kanto
+magikarp,129,water,No Type,9,100,20,10,55,15,20,80,1,Kanto
+gyarados,130,water,flying,65,2350,95,125,79,60,100,81,1,Kanto
+lapras,131,water,ice,25,2200,130,85,80,85,95,60,1,Kanto
+ditto,132,normal,No Type,3,40,48,48,48,48,48,48,1,Kanto
+eevee,133,normal,No Type,3,65,55,55,50,45,65,55,1,Kanto
+vaporeon,134,water,No Type,10,290,130,65,60,110,95,65,1,Kanto
+jolteon,135,electric,No Type,8,245,65,65,60,110,95,130,1,Kanto
+flareon,136,fire,No Type,9,250,65,130,60,95,110,65,1,Kanto
+porygon,137,normal,No Type,8,365,65,60,70,85,75,40,1,Kanto
+omanyte,138,rock,water,4,75,35,40,100,90,55,35,1,Kanto
+omastar,139,rock,water,10,350,70,60,125,115,70,55,1,Kanto
+kabuto,140,rock,water,5,115,30,80,90,55,45,55,1,Kanto
+kabutops,141,rock,water,13,405,60,115,105,65,70,80,1,Kanto
+aerodactyl,142,rock,flying,18,590,80,105,65,60,75,130,1,Kanto
+snorlax,143,normal,No Type,21,4600,160,110,65,65,110,30,1,Kanto
+articuno,144,ice,flying,17,554,90,85,100,95,125,85,1,Kanto
+zapdos,145,electric,flying,16,526,90,90,85,125,90,100,1,Kanto
+moltres,146,fire,flying,20,600,90,100,90,125,85,90,1,Kanto
+dratini,147,dragon,No Type,18,33,41,64,45,50,50,50,1,Kanto
+dragonair,148,dragon,No Type,40,165,61,84,65,70,70,70,1,Kanto
+dragonite,149,dragon,flying,22,2100,91,134,95,100,100,80,1,Kanto
+mewtwo,150,psychic,No Type,20,1220,106,110,90,154,90,130,1,Kanto
+mew,151,psychic,No Type,4,40,100,100,100,100,100,100,1,Kanto
+chikorita,152,grass,No Type,9,64,45,49,65,49,65,45,2,Johto
+bayleef,153,grass,No Type,12,158,60,62,80,63,80,60,2,Johto
+meganium,154,grass,No Type,18,1005,80,82,100,83,100,80,2,Johto
+cyndaquil,155,fire,No Type,5,79,39,52,43,60,50,65,2,Johto
+quilava,156,fire,No Type,9,190,58,64,58,80,65,80,2,Johto
+typhlosion,157,fire,No Type,17,795,78,84,78,109,85,100,2,Johto
+totodile,158,water,No Type,6,95,50,65,64,44,48,43,2,Johto
+croconaw,159,water,No Type,11,250,65,80,80,59,63,58,2,Johto
+feraligatr,160,water,No Type,23,888,85,105,100,79,83,78,2,Johto
+sentret,161,normal,No Type,8,60,35,46,34,35,45,20,2,Johto
+furret,162,normal,No Type,18,325,85,76,64,45,55,90,2,Johto
+hoothoot,163,normal,flying,7,212,60,30,30,36,56,50,2,Johto
+noctowl,164,normal,flying,16,408,100,50,50,86,96,70,2,Johto
+ledyba,165,bug,flying,10,108,40,20,30,40,80,55,2,Johto
+ledian,166,bug,flying,14,356,55,35,50,55,110,85,2,Johto
+spinarak,167,bug,poison,5,85,40,60,40,40,40,30,2,Johto
+ariados,168,bug,poison,11,335,70,90,70,60,70,40,2,Johto
+crobat,169,poison,flying,18,750,85,90,80,70,80,130,2,Johto
+chinchou,170,water,electric,5,120,75,38,38,56,56,67,2,Johto
+lanturn,171,water,electric,12,225,125,58,58,76,76,67,2,Johto
+pichu,172,electric,No Type,3,20,20,40,15,35,35,60,2,Johto
+cleffa,173,fairy,No Type,3,30,50,25,28,45,55,15,2,Johto
+igglybuff,174,normal,fairy,3,10,90,30,15,40,20,15,2,Johto
+togepi,175,fairy,No Type,3,15,35,20,65,40,65,20,2,Johto
+togetic,176,fairy,flying,6,32,55,40,85,80,105,40,2,Johto
+natu,177,psychic,flying,2,20,40,50,45,70,45,70,2,Johto
+xatu,178,psychic,flying,15,150,65,75,70,95,70,95,2,Johto
+mareep,179,electric,No Type,6,78,55,40,40,65,45,35,2,Johto
+flaaffy,180,electric,No Type,8,133,70,55,55,80,60,45,2,Johto
+ampharos,181,electric,No Type,14,615,90,75,85,115,90,55,2,Johto
+bellossom,182,grass,No Type,4,58,75,80,95,90,100,50,2,Johto
+marill,183,water,fairy,4,85,70,20,50,20,50,40,2,Johto
+azumarill,184,water,fairy,8,285,100,50,80,60,80,50,2,Johto
+sudowoodo,185,rock,No Type,12,380,70,100,115,30,65,30,2,Johto
+politoed,186,water,No Type,11,339,90,75,75,90,100,70,2,Johto
+hoppip,187,grass,flying,4,5,35,35,40,35,55,50,2,Johto
+skiploom,188,grass,flying,6,10,55,45,50,45,65,80,2,Johto
+jumpluff,189,grass,flying,8,30,75,55,70,55,95,110,2,Johto
+aipom,190,normal,No Type,8,115,55,70,55,40,55,85,2,Johto
+sunkern,191,grass,No Type,3,18,30,30,30,30,30,30,2,Johto
+sunflora,192,grass,No Type,8,85,75,75,55,105,85,30,2,Johto
+yanma,193,bug,flying,12,380,65,65,45,75,45,95,2,Johto
+wooper,194,water,ground,4,85,55,45,45,25,25,15,2,Johto
+quagsire,195,water,ground,14,750,95,85,85,65,65,35,2,Johto
+espeon,196,psychic,No Type,9,265,65,65,60,130,95,110,2,Johto
+umbreon,197,dark,No Type,10,270,95,65,110,60,130,65,2,Johto
+murkrow,198,dark,flying,5,21,60,85,42,85,42,91,2,Johto
+slowking,199,water,psychic,20,795,95,75,80,100,110,30,2,Johto
+misdreavus,200,ghost,No Type,7,10,60,60,60,85,85,85,2,Johto
+unown,201,psychic,No Type,5,50,48,72,48,72,48,48,2,Johto
+wobbuffet,202,psychic,No Type,13,285,190,33,58,33,58,33,2,Johto
+girafarig,203,normal,psychic,15,415,70,80,65,90,65,85,2,Johto
+pineco,204,bug,No Type,6,72,50,65,90,35,35,15,2,Johto
+forretress,205,bug,steel,12,1258,75,90,140,60,60,40,2,Johto
+dunsparce,206,normal,No Type,15,140,100,70,70,65,65,45,2,Johto
+gligar,207,ground,flying,11,648,65,75,105,35,65,85,2,Johto
+steelix,208,steel,ground,92,4000,75,85,200,55,65,30,2,Johto
+snubbull,209,fairy,No Type,6,78,60,80,50,40,40,30,2,Johto
+granbull,210,fairy,No Type,14,487,90,120,75,60,60,45,2,Johto
+qwilfish,211,water,poison,5,39,65,95,85,55,55,85,2,Johto
+scizor,212,bug,steel,18,1180,70,130,100,55,80,65,2,Johto
+shuckle,213,bug,rock,6,205,20,10,230,10,230,5,2,Johto
+heracross,214,bug,fighting,15,540,80,125,75,40,95,85,2,Johto
+sneasel,215,dark,ice,9,280,55,95,55,35,75,115,2,Johto
+teddiursa,216,normal,No Type,6,88,60,80,50,50,50,40,2,Johto
+ursaring,217,normal,No Type,18,1258,90,130,75,75,75,55,2,Johto
+slugma,218,fire,No Type,7,350,40,40,40,70,40,20,2,Johto
+magcargo,219,fire,rock,8,550,60,50,120,90,80,30,2,Johto
+swinub,220,ice,ground,4,65,50,50,40,30,30,50,2,Johto
+piloswine,221,ice,ground,11,558,100,100,80,60,60,50,2,Johto
+corsola,222,water,rock,6,50,65,55,95,65,95,35,2,Johto
+remoraid,223,water,No Type,6,120,35,65,35,65,35,65,2,Johto
+octillery,224,water,No Type,9,285,75,105,75,105,75,45,2,Johto
+delibird,225,ice,flying,9,160,45,55,45,65,45,75,2,Johto
+mantine,226,water,flying,21,2200,85,40,70,80,140,70,2,Johto
+skarmory,227,steel,flying,17,505,65,80,140,40,70,70,2,Johto
+houndour,228,dark,fire,6,108,45,60,30,80,50,65,2,Johto
+houndoom,229,dark,fire,14,350,75,90,50,110,80,95,2,Johto
+kingdra,230,water,dragon,18,1520,75,95,95,95,95,85,2,Johto
+phanpy,231,ground,No Type,5,335,90,60,60,40,40,40,2,Johto
+donphan,232,ground,No Type,11,1200,90,120,120,60,60,50,2,Johto
+porygon2,233,normal,No Type,6,325,85,80,90,105,95,60,2,Johto
+stantler,234,normal,No Type,14,712,73,95,62,85,65,85,2,Johto
+smeargle,235,normal,No Type,12,580,55,20,35,20,45,75,2,Johto
+tyrogue,236,fighting,No Type,7,210,35,35,35,35,35,35,2,Johto
+hitmontop,237,fighting,No Type,14,480,50,95,95,35,110,70,2,Johto
+smoochum,238,ice,psychic,4,60,45,30,15,85,65,65,2,Johto
+elekid,239,electric,No Type,6,235,45,63,37,65,55,95,2,Johto
+magby,240,fire,No Type,7,214,45,75,37,70,55,83,2,Johto
+miltank,241,normal,No Type,12,755,95,80,105,40,70,100,2,Johto
+blissey,242,normal,No Type,15,468,255,10,10,75,135,55,2,Johto
+raikou,243,electric,No Type,19,1780,90,85,75,115,100,115,2,Johto
+entei,244,fire,No Type,21,1980,115,115,85,90,75,100,2,Johto
+suicune,245,water,No Type,20,1870,100,75,115,90,115,85,2,Johto
+larvitar,246,rock,ground,6,720,50,64,50,45,50,41,2,Johto
+pupitar,247,rock,ground,12,1520,70,84,70,65,70,51,2,Johto
+tyranitar,248,rock,dark,20,2020,100,134,110,95,100,61,2,Johto
+lugia,249,psychic,flying,52,2160,106,90,130,90,154,110,2,Johto
+ho-oh,250,fire,flying,38,1990,106,130,90,110,154,90,2,Johto
+celebi,251,psychic,grass,6,50,100,100,100,100,100,100,2,Johto
+treecko,252,grass,No Type,5,50,40,45,35,65,55,70,3,Hoenn
+grovyle,253,grass,No Type,9,216,50,65,45,85,65,95,3,Hoenn
+sceptile,254,grass,No Type,17,522,70,85,65,105,85,120,3,Hoenn
+torchic,255,fire,No Type,4,25,45,60,40,70,50,45,3,Hoenn
+combusken,256,fire,fighting,9,195,60,85,60,85,60,55,3,Hoenn
+blaziken,257,fire,fighting,19,520,80,120,70,110,70,80,3,Hoenn
+mudkip,258,water,No Type,4,76,50,70,50,50,50,40,3,Hoenn
+marshtomp,259,water,ground,7,280,70,85,70,60,70,50,3,Hoenn
+swampert,260,water,ground,15,819,100,110,90,85,90,60,3,Hoenn
+poochyena,261,dark,No Type,5,136,35,55,35,30,30,35,3,Hoenn
+mightyena,262,dark,No Type,10,370,70,90,70,60,60,70,3,Hoenn
+zigzagoon,263,normal,No Type,4,175,38,30,41,30,41,60,3,Hoenn
+linoone,264,normal,No Type,5,325,78,70,61,50,61,100,3,Hoenn
+wurmple,265,bug,No Type,3,36,45,45,35,20,30,20,3,Hoenn
+silcoon,266,bug,No Type,6,100,50,35,55,25,25,15,3,Hoenn
+beautifly,267,bug,flying,10,284,60,70,50,100,50,65,3,Hoenn
+cascoon,268,bug,No Type,7,115,50,35,55,25,25,15,3,Hoenn
+dustox,269,bug,poison,12,316,60,50,70,50,90,65,3,Hoenn
+lotad,270,water,grass,5,26,40,30,30,40,50,30,3,Hoenn
+lombre,271,water,grass,12,325,60,50,50,60,70,50,3,Hoenn
+ludicolo,272,water,grass,15,550,80,70,70,90,100,70,3,Hoenn
+seedot,273,grass,No Type,5,40,40,40,50,30,30,30,3,Hoenn
+nuzleaf,274,grass,dark,10,280,70,70,40,60,40,60,3,Hoenn
+shiftry,275,grass,dark,13,596,90,100,60,90,60,80,3,Hoenn
+taillow,276,normal,flying,3,23,40,55,30,30,30,85,3,Hoenn
+swellow,277,normal,flying,7,198,60,85,60,75,50,125,3,Hoenn
+wingull,278,water,flying,6,95,40,30,30,55,30,85,3,Hoenn
+pelipper,279,water,flying,12,280,60,50,100,95,70,65,3,Hoenn
+ralts,280,psychic,fairy,4,66,28,25,25,45,35,40,3,Hoenn
+kirlia,281,psychic,fairy,8,202,38,35,35,65,55,50,3,Hoenn
+gardevoir,282,psychic,fairy,16,484,68,65,65,125,115,80,3,Hoenn
+surskit,283,bug,water,5,17,40,30,32,50,52,65,3,Hoenn
+masquerain,284,bug,flying,8,36,70,60,62,100,82,80,3,Hoenn
+shroomish,285,grass,No Type,4,45,60,40,60,40,60,35,3,Hoenn
+breloom,286,grass,fighting,12,392,60,130,80,60,60,70,3,Hoenn
+slakoth,287,normal,No Type,8,240,60,60,60,35,35,30,3,Hoenn
+vigoroth,288,normal,No Type,14,465,80,80,80,55,55,90,3,Hoenn
+slaking,289,normal,No Type,20,1305,150,160,100,95,65,100,3,Hoenn
+nincada,290,bug,ground,5,55,31,45,90,30,30,40,3,Hoenn
+ninjask,291,bug,flying,8,120,61,90,45,50,50,160,3,Hoenn
+shedinja,292,bug,ghost,8,12,1,90,45,30,30,40,3,Hoenn
+whismur,293,normal,No Type,6,163,64,51,23,51,23,28,3,Hoenn
+loudred,294,normal,No Type,10,405,84,71,43,71,43,48,3,Hoenn
+exploud,295,normal,No Type,15,840,104,91,63,91,73,68,3,Hoenn
+makuhita,296,fighting,No Type,10,864,72,60,30,20,30,25,3,Hoenn
+hariyama,297,fighting,No Type,23,2538,144,120,60,40,60,50,3,Hoenn
+azurill,298,normal,fairy,2,20,50,20,40,20,40,20,3,Hoenn
+nosepass,299,rock,No Type,10,970,30,45,135,45,90,30,3,Hoenn
+skitty,300,normal,No Type,6,110,50,45,45,35,35,50,3,Hoenn
+delcatty,301,normal,No Type,11,326,70,65,65,55,55,90,3,Hoenn
+sableye,302,dark,ghost,5,110,50,75,75,65,65,50,3,Hoenn
+mawile,303,steel,fairy,6,115,50,85,85,55,55,50,3,Hoenn
+aron,304,steel,rock,4,600,50,70,100,40,40,30,3,Hoenn
+lairon,305,steel,rock,9,1200,60,90,140,50,50,40,3,Hoenn
+aggron,306,steel,rock,21,3600,70,110,180,60,60,50,3,Hoenn
+meditite,307,fighting,psychic,6,112,30,40,55,40,55,60,3,Hoenn
+medicham,308,fighting,psychic,13,315,60,60,75,60,75,80,3,Hoenn
+electrike,309,electric,No Type,6,152,40,45,40,65,40,65,3,Hoenn
+manectric,310,electric,No Type,15,402,70,75,60,105,60,105,3,Hoenn
+plusle,311,electric,No Type,4,42,60,50,40,85,75,95,3,Hoenn
+minun,312,electric,No Type,4,42,60,40,50,75,85,95,3,Hoenn
+volbeat,313,bug,No Type,7,177,65,73,75,47,85,85,3,Hoenn
+illumise,314,bug,No Type,6,177,65,47,75,73,85,85,3,Hoenn
+roselia,315,grass,poison,3,20,50,60,45,100,80,65,3,Hoenn
+gulpin,316,poison,No Type,4,103,70,43,53,43,53,40,3,Hoenn
+swalot,317,poison,No Type,17,800,100,73,83,73,83,55,3,Hoenn
+carvanha,318,water,dark,8,208,45,90,20,65,20,65,3,Hoenn
+sharpedo,319,water,dark,18,888,70,120,40,95,40,95,3,Hoenn
+wailmer,320,water,No Type,20,1300,130,70,35,70,35,60,3,Hoenn
+wailord,321,water,No Type,145,3980,170,90,45,90,45,60,3,Hoenn
+numel,322,fire,ground,7,240,60,60,40,65,45,35,3,Hoenn
+camerupt,323,fire,ground,19,2200,70,100,70,105,75,40,3,Hoenn
+torkoal,324,fire,No Type,5,804,70,85,140,85,70,20,3,Hoenn
+spoink,325,psychic,No Type,7,306,60,25,35,70,80,60,3,Hoenn
+grumpig,326,psychic,No Type,9,715,80,45,65,90,110,80,3,Hoenn
+spinda,327,normal,No Type,11,50,60,60,60,60,60,60,3,Hoenn
+trapinch,328,ground,No Type,7,150,45,100,45,45,45,10,3,Hoenn
+vibrava,329,ground,dragon,11,153,50,70,50,50,50,70,3,Hoenn
+flygon,330,ground,dragon,20,820,80,100,80,80,80,100,3,Hoenn
+cacnea,331,grass,No Type,4,513,50,85,40,85,40,35,3,Hoenn
+cacturne,332,grass,dark,13,774,70,115,60,115,60,55,3,Hoenn
+swablu,333,normal,flying,4,12,45,40,60,40,75,50,3,Hoenn
+altaria,334,dragon,flying,11,206,75,70,90,70,105,80,3,Hoenn
+zangoose,335,normal,No Type,13,403,73,115,60,60,60,90,3,Hoenn
+seviper,336,poison,No Type,27,525,73,100,60,100,60,65,3,Hoenn
+lunatone,337,rock,psychic,10,1680,90,55,65,95,85,70,3,Hoenn
+solrock,338,rock,psychic,12,1540,90,95,85,55,65,70,3,Hoenn
+barboach,339,water,ground,4,19,50,48,43,46,41,60,3,Hoenn
+whiscash,340,water,ground,9,236,110,78,73,76,71,60,3,Hoenn
+corphish,341,water,No Type,6,115,43,80,65,50,35,35,3,Hoenn
+crawdaunt,342,water,dark,11,328,63,120,85,90,55,55,3,Hoenn
+baltoy,343,ground,psychic,5,215,40,40,55,40,70,55,3,Hoenn
+claydol,344,ground,psychic,15,1080,60,70,105,70,120,75,3,Hoenn
+lileep,345,rock,grass,10,238,66,41,77,61,87,23,3,Hoenn
+cradily,346,rock,grass,15,604,86,81,97,81,107,43,3,Hoenn
+anorith,347,rock,bug,7,125,45,95,50,40,50,75,3,Hoenn
+armaldo,348,rock,bug,15,682,75,125,100,70,80,45,3,Hoenn
+feebas,349,water,No Type,6,74,20,15,20,10,55,80,3,Hoenn
+milotic,350,water,No Type,62,1620,95,60,79,100,125,81,3,Hoenn
+castform,351,normal,No Type,3,8,70,70,70,70,70,70,3,Hoenn
+kecleon,352,normal,No Type,10,220,60,90,70,60,120,40,3,Hoenn
+shuppet,353,ghost,No Type,6,23,44,75,35,63,33,45,3,Hoenn
+banette,354,ghost,No Type,11,125,64,115,65,83,63,65,3,Hoenn
+duskull,355,ghost,No Type,8,150,20,40,90,30,90,25,3,Hoenn
+dusclops,356,ghost,No Type,16,306,40,70,130,60,130,25,3,Hoenn
+tropius,357,grass,flying,20,1000,99,68,83,72,87,51,3,Hoenn
+chimecho,358,psychic,No Type,6,10,75,50,80,95,90,65,3,Hoenn
+absol,359,dark,No Type,12,470,65,130,60,75,60,75,3,Hoenn
+wynaut,360,psychic,No Type,6,140,95,23,48,23,48,23,3,Hoenn
+snorunt,361,ice,No Type,7,168,50,50,50,50,50,50,3,Hoenn
+glalie,362,ice,No Type,15,2565,80,80,80,80,80,80,3,Hoenn
+spheal,363,ice,water,8,395,70,40,50,55,50,25,3,Hoenn
+sealeo,364,ice,water,11,876,90,60,70,75,70,45,3,Hoenn
+walrein,365,ice,water,14,1506,110,80,90,95,90,65,3,Hoenn
+clamperl,366,water,No Type,4,525,35,64,85,74,55,32,3,Hoenn
+huntail,367,water,No Type,17,270,55,104,105,94,75,52,3,Hoenn
+gorebyss,368,water,No Type,18,226,55,84,105,114,75,52,3,Hoenn
+relicanth,369,water,rock,10,234,100,90,130,45,65,55,3,Hoenn
+luvdisc,370,water,No Type,6,87,43,30,55,40,65,97,3,Hoenn
+bagon,371,dragon,No Type,6,421,45,75,60,40,30,50,3,Hoenn
+shelgon,372,dragon,No Type,11,1105,65,95,100,60,50,50,3,Hoenn
+salamence,373,dragon,flying,15,1026,95,135,80,110,80,100,3,Hoenn
+beldum,374,steel,psychic,6,952,40,55,80,35,60,30,3,Hoenn
+metang,375,steel,psychic,12,2025,60,75,100,55,80,50,3,Hoenn
+metagross,376,steel,psychic,16,5500,80,135,130,95,90,70,3,Hoenn
+regirock,377,rock,No Type,17,2300,80,100,200,50,100,50,3,Hoenn
+regice,378,ice,No Type,18,1750,80,50,100,100,200,50,3,Hoenn
+registeel,379,steel,No Type,19,2050,80,75,150,75,150,50,3,Hoenn
+latias,380,dragon,psychic,14,400,80,80,90,110,130,110,3,Hoenn
+latios,381,dragon,psychic,20,600,80,90,80,130,110,110,3,Hoenn
+kyogre,382,water,No Type,45,3520,100,100,90,150,140,90,3,Hoenn
+groudon,383,ground,No Type,35,9500,100,150,140,100,90,90,3,Hoenn
+rayquaza,384,dragon,flying,70,2065,105,150,90,150,90,95,3,Hoenn
+jirachi,385,steel,psychic,3,11,100,100,100,100,100,100,3,Hoenn
+deoxys-normal,386,psychic,No Type,17,608,50,150,50,150,50,150,3,Hoenn
+turtwig,387,grass,No Type,4,102,55,68,64,45,55,31,4,Sinnoh
+grotle,388,grass,No Type,11,970,75,89,85,55,65,36,4,Sinnoh
+torterra,389,grass,ground,22,3100,95,109,105,75,85,56,4,Sinnoh
+chimchar,390,fire,No Type,5,62,44,58,44,58,44,61,4,Sinnoh
+monferno,391,fire,fighting,9,220,64,78,52,78,52,81,4,Sinnoh
+infernape,392,fire,fighting,12,550,76,104,71,104,71,108,4,Sinnoh
+piplup,393,water,No Type,4,52,53,51,53,61,56,40,4,Sinnoh
+prinplup,394,water,No Type,8,230,64,66,68,81,76,50,4,Sinnoh
+empoleon,395,water,steel,17,845,84,86,88,111,101,60,4,Sinnoh
+starly,396,normal,flying,3,20,40,55,30,30,30,60,4,Sinnoh
+staravia,397,normal,flying,6,155,55,75,50,40,40,80,4,Sinnoh
+staraptor,398,normal,flying,12,249,85,120,70,50,60,100,4,Sinnoh
+bidoof,399,normal,No Type,5,200,59,45,40,35,40,31,4,Sinnoh
+bibarel,400,normal,water,10,315,79,85,60,55,60,71,4,Sinnoh
+kricketot,401,bug,No Type,3,22,37,25,41,25,41,25,4,Sinnoh
+kricketune,402,bug,No Type,10,255,77,85,51,55,51,65,4,Sinnoh
+shinx,403,electric,No Type,5,95,45,65,34,40,34,45,4,Sinnoh
+luxio,404,electric,No Type,9,305,60,85,49,60,49,60,4,Sinnoh
+luxray,405,electric,No Type,14,420,80,120,79,95,79,70,4,Sinnoh
+budew,406,grass,poison,2,12,40,30,35,50,70,55,4,Sinnoh
+roserade,407,grass,poison,9,145,60,70,65,125,105,90,4,Sinnoh
+cranidos,408,rock,No Type,9,315,67,125,40,30,30,58,4,Sinnoh
+rampardos,409,rock,No Type,16,1025,97,165,60,65,50,58,4,Sinnoh
+shieldon,410,rock,steel,5,570,30,42,118,42,88,30,4,Sinnoh
+bastiodon,411,rock,steel,13,1495,60,52,168,47,138,30,4,Sinnoh
+burmy,412,bug,No Type,2,34,40,29,45,29,45,36,4,Sinnoh
+wormadam-plant,413,bug,grass,5,65,60,59,85,79,105,36,4,Sinnoh
+mothim,414,bug,flying,9,233,70,94,50,94,50,66,4,Sinnoh
+combee,415,bug,flying,3,55,30,30,42,30,42,70,4,Sinnoh
+vespiquen,416,bug,flying,12,385,70,80,102,80,102,40,4,Sinnoh
+pachirisu,417,electric,No Type,4,39,60,45,70,45,90,95,4,Sinnoh
+buizel,418,water,No Type,7,295,55,65,35,60,30,85,4,Sinnoh
+floatzel,419,water,No Type,11,335,85,105,55,85,50,115,4,Sinnoh
+cherubi,420,grass,No Type,4,33,45,35,45,62,53,35,4,Sinnoh
+cherrim,421,grass,No Type,5,93,70,60,70,87,78,85,4,Sinnoh
+shellos,422,water,No Type,3,63,76,48,48,57,62,34,4,Sinnoh
+gastrodon,423,water,ground,9,299,111,83,68,92,82,39,4,Sinnoh
+ambipom,424,normal,No Type,12,203,75,100,66,60,66,115,4,Sinnoh
+drifloon,425,ghost,flying,4,12,90,50,34,60,44,70,4,Sinnoh
+drifblim,426,ghost,flying,12,150,150,80,44,90,54,80,4,Sinnoh
+buneary,427,normal,No Type,4,55,55,66,44,44,56,85,4,Sinnoh
+lopunny,428,normal,No Type,12,333,65,76,84,54,96,105,4,Sinnoh
+mismagius,429,ghost,No Type,9,44,60,60,60,105,105,105,4,Sinnoh
+honchkrow,430,dark,flying,9,273,100,125,52,105,52,71,4,Sinnoh
+glameow,431,normal,No Type,5,39,49,55,42,42,37,85,4,Sinnoh
+purugly,432,normal,No Type,10,438,71,82,64,64,59,112,4,Sinnoh
+chingling,433,psychic,No Type,2,6,45,30,50,65,50,45,4,Sinnoh
+stunky,434,poison,dark,4,192,63,63,47,41,41,74,4,Sinnoh
+skuntank,435,poison,dark,10,380,103,93,67,71,61,84,4,Sinnoh
+bronzor,436,steel,psychic,5,605,57,24,86,24,86,23,4,Sinnoh
+bronzong,437,steel,psychic,13,1870,67,89,116,79,116,33,4,Sinnoh
+bonsly,438,rock,No Type,5,150,50,80,95,10,45,10,4,Sinnoh
+mime-jr,439,psychic,fairy,6,130,20,25,45,70,90,60,4,Sinnoh
+happiny,440,normal,No Type,6,244,100,5,5,15,65,30,4,Sinnoh
+chatot,441,normal,flying,5,19,76,65,45,92,42,91,4,Sinnoh
+spiritomb,442,ghost,dark,10,1080,50,92,108,92,108,35,4,Sinnoh
+gible,443,dragon,ground,7,205,58,70,45,40,45,42,4,Sinnoh
+gabite,444,dragon,ground,14,560,68,90,65,50,55,82,4,Sinnoh
+garchomp,445,dragon,ground,19,950,108,130,95,80,85,102,4,Sinnoh
+munchlax,446,normal,No Type,6,1050,135,85,40,40,85,5,4,Sinnoh
+riolu,447,fighting,No Type,7,202,40,70,40,35,40,60,4,Sinnoh
+lucario,448,fighting,steel,12,540,70,110,70,115,70,90,4,Sinnoh
+hippopotas,449,ground,No Type,8,495,68,72,78,38,42,32,4,Sinnoh
+hippowdon,450,ground,No Type,20,3000,108,112,118,68,72,47,4,Sinnoh
+skorupi,451,poison,bug,8,120,40,50,90,30,55,65,4,Sinnoh
+drapion,452,poison,dark,13,615,70,90,110,60,75,95,4,Sinnoh
+croagunk,453,poison,fighting,7,230,48,61,40,61,40,50,4,Sinnoh
+toxicroak,454,poison,fighting,13,444,83,106,65,86,65,85,4,Sinnoh
+carnivine,455,grass,No Type,14,270,74,100,72,90,72,46,4,Sinnoh
+finneon,456,water,No Type,4,70,49,49,56,49,61,66,4,Sinnoh
+lumineon,457,water,No Type,12,240,69,69,76,69,86,91,4,Sinnoh
+mantyke,458,water,flying,10,650,45,20,50,60,120,50,4,Sinnoh
+snover,459,grass,ice,10,505,60,62,50,62,60,40,4,Sinnoh
+abomasnow,460,grass,ice,22,1355,90,92,75,92,85,60,4,Sinnoh
+weavile,461,dark,ice,11,340,70,120,65,45,85,125,4,Sinnoh
+magnezone,462,electric,steel,12,1800,70,70,115,130,90,60,4,Sinnoh
+lickilicky,463,normal,No Type,17,1400,110,85,95,80,95,50,4,Sinnoh
+rhyperior,464,ground,rock,24,2828,115,140,130,55,55,40,4,Sinnoh
+tangrowth,465,grass,No Type,20,1286,100,100,125,110,50,50,4,Sinnoh
+electivire,466,electric,No Type,18,1386,75,123,67,95,85,95,4,Sinnoh
+magmortar,467,fire,No Type,16,680,75,95,67,125,95,83,4,Sinnoh
+togekiss,468,fairy,flying,15,380,85,50,95,120,115,80,4,Sinnoh
+yanmega,469,bug,flying,19,515,86,76,86,116,56,95,4,Sinnoh
+leafeon,470,grass,No Type,10,255,65,110,130,60,65,95,4,Sinnoh
+glaceon,471,ice,No Type,8,259,65,60,110,130,95,65,4,Sinnoh
+gliscor,472,ground,flying,20,425,75,95,125,45,75,95,4,Sinnoh
+mamoswine,473,ice,ground,25,2910,110,130,80,70,60,80,4,Sinnoh
+porygon-z,474,normal,No Type,9,340,85,80,70,135,75,90,4,Sinnoh
+gallade,475,psychic,fighting,16,520,68,125,65,65,115,80,4,Sinnoh
+probopass,476,rock,steel,14,3400,60,55,145,75,150,40,4,Sinnoh
+dusknoir,477,ghost,No Type,22,1066,45,100,135,65,135,45,4,Sinnoh
+froslass,478,ice,ghost,13,266,70,80,70,80,70,110,4,Sinnoh
+rotom,479,electric,ghost,3,3,50,50,77,95,77,91,4,Sinnoh
+uxie,480,psychic,No Type,3,3,75,75,130,75,130,95,4,Sinnoh
+mesprit,481,psychic,No Type,3,3,80,105,105,105,105,80,4,Sinnoh
+azelf,482,psychic,No Type,3,3,75,125,70,125,70,115,4,Sinnoh
+dialga,483,steel,dragon,54,6830,100,120,120,150,100,90,4,Sinnoh
+palkia,484,water,dragon,42,3360,90,120,100,150,120,100,4,Sinnoh
+heatran,485,fire,steel,17,4300,91,90,106,130,106,77,4,Sinnoh
+regigigas,486,normal,No Type,37,4200,110,160,110,80,110,100,4,Sinnoh
+giratina-altered,487,ghost,dragon,45,7500,150,100,120,100,120,90,4,Sinnoh
+cresselia,488,psychic,No Type,15,856,120,70,110,75,120,85,4,Sinnoh
+phione,489,water,No Type,4,31,80,80,80,80,80,80,4,Sinnoh
+manaphy,490,water,No Type,3,14,100,100,100,100,100,100,4,Sinnoh
+darkrai,491,dark,No Type,15,505,70,90,90,135,90,125,4,Sinnoh
+shaymin-land,492,grass,No Type,2,21,100,100,100,100,100,100,4,Sinnoh
+arceus,493,normal,No Type,32,3200,120,120,120,120,120,120,4,Sinnoh
+victini,494,psychic,fire,4,40,100,100,100,100,100,100,5,Unova
+snivy,495,grass,No Type,6,81,45,45,55,45,55,63,5,Unova
+servine,496,grass,No Type,8,160,60,60,75,60,75,83,5,Unova
+serperior,497,grass,No Type,33,630,75,75,95,75,95,113,5,Unova
+tepig,498,fire,No Type,5,99,65,63,45,45,45,45,5,Unova
+pignite,499,fire,fighting,10,555,90,93,55,70,55,55,5,Unova
+emboar,500,fire,fighting,16,1500,110,123,65,100,65,65,5,Unova
+oshawott,501,water,No Type,5,59,55,55,45,63,45,45,5,Unova
+dewott,502,water,No Type,8,245,75,75,60,83,60,60,5,Unova
+samurott,503,water,No Type,15,946,95,100,85,108,70,70,5,Unova
+patrat,504,normal,No Type,5,116,45,55,39,35,39,42,5,Unova
+watchog,505,normal,No Type,11,270,60,85,69,60,69,77,5,Unova
+lillipup,506,normal,No Type,4,41,45,60,45,25,45,55,5,Unova
+herdier,507,normal,No Type,9,147,65,80,65,35,65,60,5,Unova
+stoutland,508,normal,No Type,12,610,85,110,90,45,90,80,5,Unova
+purrloin,509,dark,No Type,4,101,41,50,37,50,37,66,5,Unova
+liepard,510,dark,No Type,11,375,64,88,50,88,50,106,5,Unova
+pansage,511,grass,No Type,6,105,50,53,48,53,48,64,5,Unova
+simisage,512,grass,No Type,11,305,75,98,63,98,63,101,5,Unova
+pansear,513,fire,No Type,6,110,50,53,48,53,48,64,5,Unova
+simisear,514,fire,No Type,10,280,75,98,63,98,63,101,5,Unova
+panpour,515,water,No Type,6,135,50,53,48,53,48,64,5,Unova
+simipour,516,water,No Type,10,290,75,98,63,98,63,101,5,Unova
+munna,517,psychic,No Type,6,233,76,25,45,67,55,24,5,Unova
+musharna,518,psychic,No Type,11,605,116,55,85,107,95,29,5,Unova
+pidove,519,normal,flying,3,21,50,55,50,36,30,43,5,Unova
+tranquill,520,normal,flying,6,150,62,77,62,50,42,65,5,Unova
+unfezant,521,normal,flying,12,290,80,115,80,65,55,93,5,Unova
+blitzle,522,electric,No Type,8,298,45,60,32,50,32,76,5,Unova
+zebstrika,523,electric,No Type,16,795,75,100,63,80,63,116,5,Unova
+roggenrola,524,rock,No Type,4,180,55,75,85,25,25,15,5,Unova
+boldore,525,rock,No Type,9,1020,70,105,105,50,40,20,5,Unova
+gigalith,526,rock,No Type,17,2600,85,135,130,60,80,25,5,Unova
+woobat,527,psychic,flying,4,21,65,45,43,55,43,72,5,Unova
+swoobat,528,psychic,flying,9,105,67,57,55,77,55,114,5,Unova
+drilbur,529,ground,No Type,3,85,60,85,40,30,45,68,5,Unova
+excadrill,530,ground,steel,7,404,110,135,60,50,65,88,5,Unova
+audino,531,normal,No Type,11,310,103,60,86,60,86,50,5,Unova
+timburr,532,fighting,No Type,6,125,75,80,55,25,35,35,5,Unova
+gurdurr,533,fighting,No Type,12,400,85,105,85,40,50,40,5,Unova
+conkeldurr,534,fighting,No Type,14,870,105,140,95,55,65,45,5,Unova
+tympole,535,water,No Type,5,45,50,50,40,50,40,64,5,Unova
+palpitoad,536,water,ground,8,170,75,65,55,65,55,69,5,Unova
+seismitoad,537,water,ground,15,620,105,95,75,85,75,74,5,Unova
+throh,538,fighting,No Type,13,555,120,100,85,30,85,45,5,Unova
+sawk,539,fighting,No Type,14,510,75,125,75,30,75,85,5,Unova
+sewaddle,540,bug,grass,3,25,45,53,70,40,60,42,5,Unova
+swadloon,541,bug,grass,5,73,55,63,90,50,80,42,5,Unova
+leavanny,542,bug,grass,12,205,75,103,80,70,80,92,5,Unova
+venipede,543,bug,poison,4,53,30,45,59,30,39,57,5,Unova
+whirlipede,544,bug,poison,12,585,40,55,99,40,79,47,5,Unova
+scolipede,545,bug,poison,25,2005,60,100,89,55,69,112,5,Unova
+cottonee,546,grass,fairy,3,6,40,27,60,37,50,66,5,Unova
+whimsicott,547,grass,fairy,7,66,60,67,85,77,75,116,5,Unova
+petilil,548,grass,No Type,5,66,45,35,50,70,50,30,5,Unova
+lilligant,549,grass,No Type,11,163,70,60,75,110,75,90,5,Unova
+basculin-red-striped,550,water,No Type,10,180,70,92,65,80,55,98,5,Unova
+sandile,551,ground,dark,7,152,50,72,35,35,35,65,5,Unova
+krokorok,552,ground,dark,10,334,60,82,45,45,45,74,5,Unova
+krookodile,553,ground,dark,15,963,95,117,80,65,70,92,5,Unova
+darumaka,554,fire,No Type,6,375,70,90,45,15,45,50,5,Unova
+darmanitan-standard,555,fire,No Type,13,929,105,140,55,30,55,95,5,Unova
+maractus,556,grass,No Type,10,280,75,86,67,106,67,60,5,Unova
+dwebble,557,bug,rock,3,145,50,65,85,35,35,55,5,Unova
+crustle,558,bug,rock,14,2000,70,105,125,65,75,45,5,Unova
+scraggy,559,dark,fighting,6,118,50,75,70,35,70,48,5,Unova
+scrafty,560,dark,fighting,11,300,65,90,115,45,115,58,5,Unova
+sigilyph,561,psychic,flying,14,140,72,58,80,103,80,97,5,Unova
+yamask,562,ghost,No Type,5,15,38,30,85,55,65,30,5,Unova
+cofagrigus,563,ghost,No Type,17,765,58,50,145,95,105,30,5,Unova
+tirtouga,564,water,rock,7,165,54,78,103,53,45,22,5,Unova
+carracosta,565,water,rock,12,810,74,108,133,83,65,32,5,Unova
+archen,566,rock,flying,5,95,55,112,45,74,45,70,5,Unova
+archeops,567,rock,flying,14,320,75,140,65,112,65,110,5,Unova
+trubbish,568,poison,No Type,6,310,50,50,62,40,62,65,5,Unova
+garbodor,569,poison,No Type,19,1073,80,95,82,60,82,75,5,Unova
+zorua,570,dark,No Type,7,125,40,65,40,80,40,65,5,Unova
+zoroark,571,dark,No Type,16,811,60,105,60,120,60,105,5,Unova
+minccino,572,normal,No Type,4,58,55,50,40,40,40,75,5,Unova
+cinccino,573,normal,No Type,5,75,75,95,60,65,60,115,5,Unova
+gothita,574,psychic,No Type,4,58,45,30,50,55,65,45,5,Unova
+gothorita,575,psychic,No Type,7,180,60,45,70,75,85,55,5,Unova
+gothitelle,576,psychic,No Type,15,440,70,55,95,95,110,65,5,Unova
+solosis,577,psychic,No Type,3,10,45,30,40,105,50,20,5,Unova
+duosion,578,psychic,No Type,6,80,65,40,50,125,60,30,5,Unova
+reuniclus,579,psychic,No Type,10,201,110,65,75,125,85,30,5,Unova
+ducklett,580,water,flying,5,55,62,44,50,44,50,55,5,Unova
+swanna,581,water,flying,13,242,75,87,63,87,63,98,5,Unova
+vanillite,582,ice,No Type,4,57,36,50,50,65,60,44,5,Unova
+vanillish,583,ice,No Type,11,410,51,65,65,80,75,59,5,Unova
+vanilluxe,584,ice,No Type,13,575,71,95,85,110,95,79,5,Unova
+deerling,585,normal,grass,6,195,60,60,50,40,50,75,5,Unova
+sawsbuck,586,normal,grass,19,925,80,100,70,60,70,95,5,Unova
+emolga,587,electric,flying,4,50,55,75,60,75,60,103,5,Unova
+karrablast,588,bug,No Type,5,59,50,75,45,40,45,60,5,Unova
+escavalier,589,bug,steel,10,330,70,135,105,60,105,20,5,Unova
+foongus,590,grass,poison,2,10,69,55,45,55,55,15,5,Unova
+amoonguss,591,grass,poison,6,105,114,85,70,85,80,30,5,Unova
+frillish,592,water,ghost,12,330,55,40,50,65,85,40,5,Unova
+jellicent,593,water,ghost,22,1350,100,60,70,85,105,60,5,Unova
+alomomola,594,water,No Type,12,316,165,75,80,40,45,65,5,Unova
+joltik,595,bug,electric,1,6,50,47,50,57,50,65,5,Unova
+galvantula,596,bug,electric,8,143,70,77,60,97,60,108,5,Unova
+ferroseed,597,grass,steel,6,188,44,50,91,24,86,10,5,Unova
+ferrothorn,598,grass,steel,10,1100,74,94,131,54,116,20,5,Unova
+klink,599,steel,No Type,3,210,40,55,70,45,60,30,5,Unova
+klang,600,steel,No Type,6,510,60,80,95,70,85,50,5,Unova
+klinklang,601,steel,No Type,6,810,60,100,115,70,85,90,5,Unova
+tynamo,602,electric,No Type,2,3,35,55,40,45,40,60,5,Unova
+eelektrik,603,electric,No Type,12,220,65,85,70,75,70,40,5,Unova
+eelektross,604,electric,No Type,21,805,85,115,80,105,80,50,5,Unova
+elgyem,605,psychic,No Type,5,90,55,55,55,85,55,30,5,Unova
+beheeyem,606,psychic,No Type,10,345,75,75,75,125,95,40,5,Unova
+litwick,607,ghost,fire,3,31,50,30,55,65,55,20,5,Unova
+lampent,608,ghost,fire,6,130,60,40,60,95,60,55,5,Unova
+chandelure,609,ghost,fire,10,343,60,55,90,145,90,80,5,Unova
+axew,610,dragon,No Type,6,180,46,87,60,30,40,57,5,Unova
+fraxure,611,dragon,No Type,10,360,66,117,70,40,50,67,5,Unova
+haxorus,612,dragon,No Type,18,1055,76,147,90,60,70,97,5,Unova
+cubchoo,613,ice,No Type,5,85,55,70,40,60,40,40,5,Unova
+beartic,614,ice,No Type,26,2600,95,130,80,70,80,50,5,Unova
+cryogonal,615,ice,No Type,11,1480,80,50,50,95,135,105,5,Unova
+shelmet,616,bug,No Type,4,77,50,40,85,40,65,25,5,Unova
+accelgor,617,bug,No Type,8,253,80,70,40,100,60,145,5,Unova
+stunfisk,618,ground,electric,7,110,109,66,84,81,99,32,5,Unova
+mienfoo,619,fighting,No Type,9,200,45,85,50,55,50,65,5,Unova
+mienshao,620,fighting,No Type,14,355,65,125,60,95,60,105,5,Unova
+druddigon,621,dragon,No Type,16,1390,77,120,90,60,90,48,5,Unova
+golett,622,ground,ghost,10,920,59,74,50,35,50,35,5,Unova
+golurk,623,ground,ghost,28,3300,89,124,80,55,80,55,5,Unova
+pawniard,624,dark,steel,5,102,45,85,70,40,40,60,5,Unova
+bisharp,625,dark,steel,16,700,65,125,100,60,70,70,5,Unova
+bouffalant,626,normal,No Type,16,946,95,110,95,40,95,55,5,Unova
+rufflet,627,normal,flying,5,105,70,83,50,37,50,60,5,Unova
+braviary,628,normal,flying,15,410,100,123,75,57,75,80,5,Unova
+vullaby,629,dark,flying,5,90,70,55,75,45,65,60,5,Unova
+mandibuzz,630,dark,flying,12,395,110,65,105,55,95,80,5,Unova
+heatmor,631,fire,No Type,14,580,85,97,66,105,66,65,5,Unova
+durant,632,bug,steel,3,330,58,109,112,48,48,109,5,Unova
+deino,633,dark,dragon,8,173,52,65,50,45,50,38,5,Unova
+zweilous,634,dark,dragon,14,500,72,85,70,65,70,58,5,Unova
+hydreigon,635,dark,dragon,18,1600,92,105,90,125,90,98,5,Unova
+larvesta,636,bug,fire,11,288,55,85,55,50,55,60,5,Unova
+volcarona,637,bug,fire,16,460,85,60,65,135,105,100,5,Unova
+cobalion,638,steel,fighting,21,2500,91,90,129,90,72,108,5,Unova
+terrakion,639,rock,fighting,19,2600,91,129,90,72,90,108,5,Unova
+virizion,640,grass,fighting,20,2000,91,90,72,90,129,108,5,Unova
+tornadus-incarnate,641,flying,No Type,15,630,79,115,70,125,80,111,5,Unova
+thundurus-incarnate,642,electric,flying,15,610,79,115,70,125,80,111,5,Unova
+reshiram,643,dragon,fire,32,3300,100,120,100,150,120,90,5,Unova
+zekrom,644,dragon,electric,29,3450,100,150,120,120,100,90,5,Unova
+landorus-incarnate,645,ground,flying,15,680,89,125,90,115,80,101,5,Unova
+kyurem,646,dragon,ice,30,3250,125,130,90,130,90,95,5,Unova
+keldeo-ordinary,647,water,fighting,14,485,91,72,90,129,90,108,5,Unova
+meloetta-aria,648,normal,psychic,6,65,100,77,77,128,128,90,5,Unova
+genesect,649,bug,steel,15,825,71,120,95,120,95,99,5,Unova
+chespin,650,grass,No Type,4,90,56,61,65,48,45,38,6,Kalos
+quilladin,651,grass,No Type,7,290,61,78,95,56,58,57,6,Kalos
+chesnaught,652,grass,fighting,16,900,88,107,122,74,75,64,6,Kalos
+fennekin,653,fire,No Type,4,94,40,45,40,62,60,60,6,Kalos
+braixen,654,fire,No Type,10,145,59,59,58,90,70,73,6,Kalos
+delphox,655,fire,psychic,15,390,75,69,72,114,100,104,6,Kalos
+froakie,656,water,No Type,3,70,41,56,40,62,44,71,6,Kalos
+frogadier,657,water,No Type,6,109,54,63,52,83,56,97,6,Kalos
+greninja,658,water,dark,15,400,72,95,67,103,71,122,6,Kalos
+bunnelby,659,normal,No Type,4,50,38,36,38,32,36,57,6,Kalos
+diggersby,660,normal,ground,10,424,85,56,77,50,77,78,6,Kalos
+fletchling,661,normal,flying,3,17,45,50,43,40,38,62,6,Kalos
+fletchinder,662,fire,flying,7,160,62,73,55,56,52,84,6,Kalos
+talonflame,663,fire,flying,12,245,78,81,71,74,69,126,6,Kalos
+scatterbug,664,bug,No Type,3,25,38,35,40,27,25,35,6,Kalos
+spewpa,665,bug,No Type,3,84,45,22,60,27,30,29,6,Kalos
+vivillon,666,bug,flying,12,170,80,52,50,90,50,89,6,Kalos
+litleo,667,fire,normal,6,135,62,50,58,73,54,72,6,Kalos
+pyroar,668,fire,normal,15,815,86,68,72,109,66,106,6,Kalos
+flabebe,669,fairy,No Type,1,1,44,38,39,61,79,42,6,Kalos
+floette,670,fairy,No Type,2,9,54,45,47,75,98,52,6,Kalos
+florges,671,fairy,No Type,11,100,78,65,68,112,154,75,6,Kalos
+skiddo,672,grass,No Type,9,310,66,65,48,62,57,52,6,Kalos
+gogoat,673,grass,No Type,17,910,123,100,62,97,81,68,6,Kalos
+pancham,674,fighting,No Type,6,80,67,82,62,46,48,43,6,Kalos
+pangoro,675,fighting,dark,21,1360,95,124,78,69,71,58,6,Kalos
+furfrou,676,normal,No Type,12,280,75,80,60,65,90,102,6,Kalos
+espurr,677,psychic,No Type,3,35,62,48,54,63,60,68,6,Kalos
+meowstic-male,678,psychic,No Type,6,85,74,48,76,83,81,104,6,Kalos
+honedge,679,steel,ghost,8,20,45,80,100,35,37,28,6,Kalos
+doublade,680,steel,ghost,8,45,59,110,150,45,49,35,6,Kalos
+aegislash-shield,681,steel,ghost,17,530,60,50,140,50,140,60,6,Kalos
+spritzee,682,fairy,No Type,2,5,78,52,60,63,65,23,6,Kalos
+aromatisse,683,fairy,No Type,8,155,101,72,72,99,89,29,6,Kalos
+swirlix,684,fairy,No Type,4,35,62,48,66,59,57,49,6,Kalos
+slurpuff,685,fairy,No Type,8,50,82,80,86,85,75,72,6,Kalos
+inkay,686,dark,psychic,4,35,53,54,53,37,46,45,6,Kalos
+malamar,687,dark,psychic,15,470,86,92,88,68,75,73,6,Kalos
+binacle,688,rock,water,5,310,42,52,67,39,56,50,6,Kalos
+barbaracle,689,rock,water,13,960,72,105,115,54,86,68,6,Kalos
+skrelp,690,poison,water,5,73,50,60,60,60,60,30,6,Kalos
+dragalge,691,poison,dragon,18,815,65,75,90,97,123,44,6,Kalos
+clauncher,692,water,No Type,5,83,50,53,62,58,63,44,6,Kalos
+clawitzer,693,water,No Type,13,353,71,73,88,120,89,59,6,Kalos
+helioptile,694,electric,normal,5,60,44,38,33,61,43,70,6,Kalos
+heliolisk,695,electric,normal,10,210,62,55,52,109,94,109,6,Kalos
+tyrunt,696,rock,dragon,8,260,58,89,77,45,45,48,6,Kalos
+tyrantrum,697,rock,dragon,25,2700,82,121,119,69,59,71,6,Kalos
+amaura,698,rock,ice,13,252,77,59,50,67,63,46,6,Kalos
+aurorus,699,rock,ice,27,2250,123,77,72,99,92,58,6,Kalos
+sylveon,700,fairy,No Type,10,235,95,65,65,110,130,60,6,Kalos
+hawlucha,701,fighting,flying,8,215,78,92,75,74,63,118,6,Kalos
+dedenne,702,electric,fairy,2,22,67,58,57,81,67,101,6,Kalos
+carbink,703,rock,fairy,3,57,50,50,150,50,150,50,6,Kalos
+goomy,704,dragon,No Type,3,28,45,50,35,55,75,40,6,Kalos
+sliggoo,705,dragon,No Type,8,175,68,75,53,83,113,60,6,Kalos
+goodra,706,dragon,No Type,20,1505,90,100,70,110,150,80,6,Kalos
+klefki,707,steel,fairy,2,30,57,80,91,80,87,75,6,Kalos
+phantump,708,ghost,grass,4,70,43,70,48,50,60,38,6,Kalos
+trevenant,709,ghost,grass,15,710,85,110,76,65,82,56,6,Kalos
+pumpkaboo-average,710,ghost,grass,4,50,49,66,70,44,55,51,6,Kalos
+gourgeist-average,711,ghost,grass,9,125,65,90,122,58,75,84,6,Kalos
+bergmite,712,ice,No Type,10,995,55,69,85,32,35,28,6,Kalos
+avalugg,713,ice,No Type,20,5050,95,117,184,44,46,28,6,Kalos
+noibat,714,flying,dragon,5,80,40,30,35,45,40,55,6,Kalos
+noivern,715,flying,dragon,15,850,85,70,80,97,80,123,6,Kalos
+xerneas,716,fairy,No Type,30,2150,126,131,95,131,98,99,6,Kalos
+yveltal,717,dark,flying,58,2030,126,131,95,131,98,99,6,Kalos
+zygarde-50,718,dragon,ground,50,3050,108,100,121,81,95,95,6,Kalos
+diancie,719,rock,fairy,7,88,50,100,150,100,150,50,6,Kalos
+hoopa,720,psychic,ghost,5,90,80,110,60,150,130,70,6,Kalos
+volcanion,721,fire,water,17,1950,80,110,120,130,90,70,6,Kalos
+rowlet,722,grass,flying,3,15,68,55,55,50,50,42,7,Alola
+dartrix,723,grass,flying,7,160,78,75,75,70,70,52,7,Alola
+decidueye,724,grass,ghost,16,366,78,107,75,100,100,70,7,Alola
+litten,725,fire,No Type,4,43,45,65,40,60,40,70,7,Alola
+torracat,726,fire,No Type,7,250,65,85,50,80,50,90,7,Alola
+incineroar,727,fire,dark,18,830,95,115,90,80,90,60,7,Alola
+popplio,728,water,No Type,4,75,50,54,54,66,56,40,7,Alola
+brionne,729,water,No Type,6,175,60,69,69,91,81,50,7,Alola
+primarina,730,water,fairy,18,440,80,74,74,126,116,60,7,Alola
+pikipek,731,normal,flying,3,12,35,75,30,30,30,65,7,Alola
+trumbeak,732,normal,flying,6,148,55,85,50,40,50,75,7,Alola
+toucannon,733,normal,flying,11,260,80,120,75,75,75,60,7,Alola
+yungoos,734,normal,No Type,4,60,48,70,30,30,30,45,7,Alola
+gumshoos,735,normal,No Type,7,142,88,110,60,55,60,45,7,Alola
+grubbin,736,bug,No Type,4,44,47,62,45,55,45,46,7,Alola
+charjabug,737,bug,electric,5,105,57,82,95,55,75,36,7,Alola
+vikavolt,738,bug,electric,15,450,77,70,90,145,75,43,7,Alola
+crabrawler,739,fighting,No Type,6,70,47,82,57,42,47,63,7,Alola
+crabominable,740,fighting,ice,17,1800,97,132,77,62,67,43,7,Alola
+oricorio-baile,741,fire,flying,6,34,75,70,70,98,70,93,7,Alola
+cutiefly,742,bug,fairy,1,2,40,45,40,55,40,84,7,Alola
+ribombee,743,bug,fairy,2,5,60,55,60,95,70,124,7,Alola
+rockruff,744,rock,No Type,5,92,45,65,40,30,40,60,7,Alola
+lycanroc-midday,745,rock,No Type,8,250,75,115,65,55,65,112,7,Alola
+wishiwashi-solo,746,water,No Type,2,3,45,20,20,25,25,40,7,Alola
+mareanie,747,poison,water,4,80,50,53,62,43,52,45,7,Alola
+toxapex,748,poison,water,7,145,50,63,152,53,142,35,7,Alola
+mudbray,749,ground,No Type,10,1100,70,100,70,45,55,45,7,Alola
+mudsdale,750,ground,No Type,25,9200,100,125,100,55,85,35,7,Alola
+dewpider,751,water,bug,3,40,38,40,52,40,72,27,7,Alola
+araquanid,752,water,bug,18,820,68,70,92,50,132,42,7,Alola
+fomantis,753,grass,No Type,3,15,40,55,35,50,35,35,7,Alola
+lurantis,754,grass,No Type,9,185,70,105,90,80,90,45,7,Alola
+morelull,755,grass,fairy,2,15,40,35,55,65,75,15,7,Alola
+shiinotic,756,grass,fairy,10,115,60,45,80,90,100,30,7,Alola
+salandit,757,poison,fire,6,48,48,44,40,71,40,77,7,Alola
+salazzle,758,poison,fire,12,222,68,64,60,111,60,117,7,Alola
+stufful,759,normal,fighting,5,68,70,75,50,45,50,50,7,Alola
+bewear,760,normal,fighting,21,1350,120,125,80,55,60,60,7,Alola
+bounsweet,761,grass,No Type,3,32,42,30,38,30,38,32,7,Alola
+steenee,762,grass,No Type,7,82,52,40,48,40,48,62,7,Alola
+tsareena,763,grass,No Type,12,214,72,120,98,50,98,72,7,Alola
+comfey,764,fairy,No Type,1,3,51,52,90,82,110,100,7,Alola
+oranguru,765,normal,psychic,15,760,90,60,80,90,110,60,7,Alola
+passimian,766,fighting,No Type,20,828,100,120,90,40,60,80,7,Alola
+wimpod,767,bug,water,5,120,25,35,40,20,30,80,7,Alola
+golisopod,768,bug,water,20,1080,75,125,140,60,90,40,7,Alola
+sandygast,769,ghost,ground,5,700,55,55,80,70,45,15,7,Alola
+palossand,770,ghost,ground,13,2500,85,75,110,100,75,35,7,Alola
+pyukumuku,771,water,No Type,3,12,55,60,130,30,130,5,7,Alola
+type-null,772,normal,No Type,19,1205,95,95,95,95,95,59,7,Alola
+silvally,773,normal,No Type,23,1005,95,95,95,95,95,95,7,Alola
+minior-red-meteor,774,rock,flying,3,400,60,60,100,60,100,60,7,Alola
+komala,775,normal,No Type,4,199,65,115,65,75,95,65,7,Alola
+turtonator,776,fire,dragon,20,2120,60,78,135,91,85,36,7,Alola
+togedemaru,777,electric,steel,3,33,65,98,63,40,73,96,7,Alola
+mimikyu-disguised,778,ghost,fairy,2,7,55,90,80,50,105,96,7,Alola
+bruxish,779,water,psychic,9,190,68,105,70,70,70,92,7,Alola
+drampa,780,normal,dragon,30,1850,78,60,85,135,91,36,7,Alola
+dhelmise,781,ghost,grass,39,2100,70,131,100,86,90,40,7,Alola
+jangmo-o,782,dragon,No Type,6,297,45,55,65,45,45,45,7,Alola
+hakamo-o,783,dragon,fighting,12,470,55,75,90,65,70,65,7,Alola
+kommo-o,784,dragon,fighting,16,782,75,110,125,100,105,85,7,Alola
+tapu-koko,785,electric,fairy,18,205,70,115,85,95,75,130,7,Alola
+tapu-lele,786,psychic,fairy,12,186,70,85,75,130,115,95,7,Alola
+tapu-bulu,787,grass,fairy,19,455,70,130,115,85,95,75,7,Alola
+tapu-fini,788,water,fairy,13,212,70,75,115,95,130,85,7,Alola
+cosmog,789,psychic,No Type,2,1,43,29,31,29,31,37,7,Alola
+cosmoem,790,psychic,No Type,1,9999,43,29,131,29,131,37,7,Alola
+solgaleo,791,psychic,steel,34,2300,137,137,107,113,89,97,7,Alola
+lunala,792,psychic,ghost,40,1200,137,113,89,137,107,97,7,Alola
+nihilego,793,rock,poison,12,555,109,53,47,127,131,103,7,Alola
+buzzwole,794,bug,fighting,24,3336,107,139,139,53,53,79,7,Alola
+pheromosa,795,bug,fighting,18,250,71,137,37,137,37,151,7,Alola
+xurkitree,796,electric,No Type,38,1000,83,89,71,173,71,83,7,Alola
+celesteela,797,steel,flying,92,9999,97,101,103,107,101,61,7,Alola
+kartana,798,grass,steel,3,1,59,181,131,59,31,109,7,Alola
+guzzlord,799,dark,dragon,55,8880,223,101,53,97,53,43,7,Alola
+necrozma,800,psychic,No Type,24,2300,97,107,101,127,89,79,7,Alola
+magearna,801,steel,fairy,10,805,80,95,115,130,115,65,7,Alola
+marshadow,802,fighting,ghost,7,222,90,125,80,90,90,125,7,Alola
+poipole,803,poison,No Type,6,18,67,73,67,73,67,73,7,Alola
+naganadel,804,poison,dragon,36,1500,73,73,73,127,73,121,7,Alola
+stakataka,805,rock,steel,55,8200,61,131,211,53,101,13,7,Alola
+blacephalon,806,fire,ghost,18,130,53,127,53,151,79,107,7,Alola
+zeraora,807,electric,No Type,15,445,88,112,75,102,80,143,7,Alola
+meltan,808,steel,No Type,2,80,46,65,65,55,35,34,7,Alola
+melmetal,809,steel,No Type,25,8000,135,143,143,80,65,34,7,Alola
+grookey,810,grass,No Type,3,50,50,65,50,40,40,65,8,Galar
+thwackey,811,grass,No Type,7,140,70,85,70,55,60,80,8,Galar
+rillaboom,812,grass,No Type,21,900,100,125,90,60,70,85,8,Galar
+scorbunny,813,fire,No Type,3,45,50,71,40,40,40,69,8,Galar
+raboot,814,fire,No Type,6,90,65,86,60,55,60,94,8,Galar
+cinderace,815,fire,No Type,14,330,80,116,75,65,75,119,8,Galar
+sobble,816,water,No Type,3,40,50,40,40,70,40,70,8,Galar
+drizzile,817,water,No Type,7,115,65,60,55,95,55,90,8,Galar
+inteleon,818,water,No Type,19,452,70,85,65,125,65,120,8,Galar
+skwovet,819,normal,No Type,3,25,70,55,55,35,35,25,8,Galar
+greedent,820,normal,No Type,6,60,120,95,95,55,75,20,8,Galar
+rookidee,821,flying,No Type,2,18,38,47,35,33,35,57,8,Galar
+corvisquire,822,flying,No Type,8,160,68,67,55,43,55,77,8,Galar
+corviknight,823,flying,steel,22,750,98,87,105,53,85,67,8,Galar
+blipbug,824,bug,No Type,4,80,25,20,20,25,45,45,8,Galar
+dottler,825,bug,psychic,4,195,50,35,80,50,90,30,8,Galar
+orbeetle,826,bug,psychic,4,408,60,45,110,80,120,90,8,Galar
+nickit,827,dark,No Type,6,89,40,28,28,47,52,50,8,Galar
+thievul,828,dark,No Type,12,199,70,58,58,87,92,90,8,Galar
+gossifleur,829,grass,No Type,4,22,40,40,60,40,60,10,8,Galar
+eldegoss,830,grass,No Type,5,25,60,50,90,80,120,60,8,Galar
+wooloo,831,normal,No Type,6,60,42,40,55,40,45,48,8,Galar
+dubwool,832,normal,No Type,13,430,72,80,100,60,90,88,8,Galar
+chewtle,833,water,No Type,3,85,50,64,50,38,38,44,8,Galar
+drednaw,834,water,rock,10,1155,90,115,90,48,68,74,8,Galar
+yamper,835,electric,No Type,3,135,59,45,50,40,50,26,8,Galar
+boltund,836,electric,No Type,10,340,69,90,60,90,60,121,8,Galar
+rolycoly,837,rock,No Type,3,120,30,40,50,40,50,30,8,Galar
+carkol,838,rock,fire,11,780,80,60,90,60,70,50,8,Galar
+coalossal,839,rock,fire,28,3105,110,80,120,80,90,30,8,Galar
+applin,840,grass,dragon,2,5,40,40,80,40,40,20,8,Galar
+flapple,841,grass,dragon,3,10,70,110,80,95,60,70,8,Galar
+appletun,842,grass,dragon,4,130,110,85,80,100,80,30,8,Galar
+silicobra,843,ground,No Type,22,76,52,57,75,35,50,46,8,Galar
+sandaconda,844,ground,No Type,38,655,72,107,125,65,70,71,8,Galar
+cramorant,845,flying,water,8,180,70,85,55,85,95,85,8,Galar
+arrokuda,846,water,No Type,5,10,41,63,40,40,30,66,8,Galar
+barraskewda,847,water,No Type,13,300,61,123,60,60,50,136,8,Galar
+toxel,848,electric,poison,4,110,40,38,35,54,35,40,8,Galar
+toxtricity-amped,849,electric,poison,16,400,75,98,70,114,70,75,8,Galar
+sizzlipede,850,fire,bug,7,10,50,65,45,50,50,45,8,Galar
+centiskorch,851,fire,bug,30,1200,100,115,65,90,90,65,8,Galar
+clobbopus,852,fighting,No Type,6,40,50,68,60,50,50,32,8,Galar
+grapploct,853,fighting,No Type,16,390,80,118,90,70,80,42,8,Galar
+sinistea,854,ghost,No Type,1,2,40,45,45,74,54,50,8,Galar
+polteageist,855,ghost,No Type,2,4,60,65,65,134,114,70,8,Galar
+hatenna,856,psychic,No Type,4,34,42,30,45,56,53,39,8,Galar
+hattrem,857,psychic,No Type,6,48,57,40,65,86,73,49,8,Galar
+hatterene,858,psychic,fairy,21,51,57,90,95,136,103,29,8,Galar
+impidimp,859,dark,fairy,4,55,45,45,30,55,40,50,8,Galar
+morgrem,860,dark,fairy,8,125,65,60,45,75,55,70,8,Galar
+grimmsnarl,861,dark,fairy,15,610,95,120,65,95,75,60,8,Galar
+obstagoon,862,dark,normal,16,460,93,90,101,60,81,95,8,Galar
+perrserker,863,steel,No Type,8,280,70,110,100,50,60,50,8,Galar
+cursola,864,ghost,No Type,10,4,60,95,50,145,130,30,8,Galar
+sirfetchd,865,fighting,No Type,8,1170,62,135,95,68,82,65,8,Galar
+mr-rime,866,ice,psychic,15,582,80,85,75,110,100,70,8,Galar
+runerigus,867,ground,ghost,16,666,58,95,145,50,105,30,8,Galar
+milcery,868,fairy,No Type,2,3,45,40,40,50,61,34,8,Galar
+alcremie,869,fairy,No Type,3,5,65,60,75,110,121,64,8,Galar
+falinks,870,fighting,No Type,30,620,65,100,100,70,60,75,8,Galar
+pincurchin,871,electric,No Type,3,10,48,101,95,91,85,15,8,Galar
+snom,872,ice,bug,3,38,30,25,35,45,30,20,8,Galar
+frosmoth,873,ice,bug,13,420,70,65,60,125,90,65,8,Galar
+stonjourner,874,rock,No Type,25,5200,100,125,135,20,20,70,8,Galar
+eiscue-ice,875,ice,No Type,14,890,75,80,110,65,90,50,8,Galar
+indeedee-male,876,psychic,normal,9,280,60,65,55,105,95,95,8,Galar
+morpeko-full-belly,877,electric,dark,3,30,58,95,58,70,58,97,8,Galar
+cufant,878,steel,No Type,12,1000,72,80,49,40,49,40,8,Galar
+copperajah,879,steel,No Type,30,6500,122,130,69,80,69,30,8,Galar
+dracozolt,880,electric,dragon,18,1900,90,100,90,80,70,75,8,Galar
+arctozolt,881,electric,ice,23,1500,90,100,90,90,80,55,8,Galar
+dracovish,882,water,dragon,23,2150,90,90,100,70,80,75,8,Galar
+arctovish,883,water,ice,20,1750,90,90,100,80,90,55,8,Galar
+duraludon,884,steel,dragon,18,400,70,95,115,120,50,85,8,Galar
+dreepy,885,dragon,ghost,5,20,28,60,30,40,30,82,8,Galar
+drakloak,886,dragon,ghost,14,110,68,80,50,60,50,102,8,Galar
+dragapult,887,dragon,ghost,30,500,88,120,75,100,75,142,8,Galar
+zacian,888,fairy,No Type,28,1100,92,120,115,80,115,138,8,Galar
+zamazenta,889,fighting,No Type,29,2100,92,120,115,80,115,138,8,Galar
+eternatus,890,poison,dragon,200,9500,140,85,95,145,95,130,8,Galar
+kubfu,891,fighting,No Type,6,120,60,90,60,53,50,72,8,Galar
+urshifu-single-strike,892,fighting,dark,19,1050,100,130,100,63,60,97,8,Galar
+zarude,893,dark,grass,18,700,105,120,105,70,95,105,8,Galar
+regieleki,894,electric,No Type,12,1450,80,100,50,100,50,200,8,Galar
+regidrago,895,dragon,No Type,21,2000,200,100,50,100,50,80,8,Galar
+glastrier,896,ice,No Type,22,8000,100,145,130,65,110,30,8,Galar
+spectrier,897,ghost,No Type,20,445,100,65,60,145,80,130,8,Galar
+calyrex,898,psychic,grass,11,77,100,80,80,80,80,80,8,Galar
+wyrdeer,899,normal,psychic,18,951,103,105,72,105,75,65,8,Galar
+kleavor,900,bug,rock,18,890,70,135,95,45,70,85,8,Galar
+ursaluna,901,ground,normal,24,2900,130,140,105,45,80,50,8,Galar
+basculegion-male,902,water,ghost,30,1100,120,112,65,80,75,78,8,Galar
+sneasler,903,fighting,poison,13,430,80,130,60,40,80,120,8,Galar
+overqwil,904,dark,poison,25,605,85,115,95,65,65,85,8,Galar
+enamorus-incarnate,905,fairy,flying,16,480,74,115,70,135,80,106,Transformation,Galar
+sprigatito,906,grass,No Type,4,41,40,61,54,45,45,65,9,Paldea
+floragato,907,grass,No Type,9,122,61,80,63,60,63,83,9,Paldea
+meowscarada,908,grass,dark,15,312,76,110,70,81,70,123,9,Paldea
+fuecoco,909,fire,No Type,4,98,67,45,59,63,40,36,9,Paldea
+crocalor,910,fire,No Type,10,307,81,55,78,90,58,49,9,Paldea
+skeledirge,911,fire,ghost,16,3265,104,75,100,110,75,66,9,Paldea
+quaxly,912,water,No Type,5,61,55,65,45,50,45,50,9,Paldea
+quaxwell,913,water,No Type,12,215,70,85,65,65,60,65,9,Paldea
+quaquaval,914,water,fighting,18,619,85,120,80,85,75,85,9,Paldea
+lechonk,915,normal,No Type,5,102,54,45,40,35,45,35,9,Paldea
+oinkologne-male,916,normal,No Type,10,1200,110,100,75,59,80,65,9,Paldea
+tarountula,917,bug,No Type,3,40,35,41,45,29,40,20,9,Paldea
+spidops,918,bug,No Type,10,165,60,79,92,52,86,35,9,Paldea
+nymble,919,bug,No Type,2,10,33,46,40,21,25,45,9,Paldea
+lokix,920,bug,dark,10,175,71,102,78,52,55,92,9,Paldea
+pawmi,921,electric,No Type,3,25,45,50,20,40,25,60,9,Paldea
+pawmo,922,electric,fighting,4,65,60,75,40,50,40,85,9,Paldea
+pawmot,923,electric,fighting,9,410,70,115,70,70,60,105,9,Paldea
+tandemaus,924,normal,No Type,3,18,50,50,45,40,45,75,9,Paldea
+maushold-family-of-four,925,normal,No Type,3,23,74,75,70,65,75,111,9,Paldea
+fidough,926,fairy,No Type,3,109,37,55,70,30,55,65,9,Paldea
+dachsbun,927,fairy,No Type,5,149,57,80,115,50,80,95,9,Paldea
+smoliv,928,grass,normal,3,65,41,35,45,58,51,30,9,Paldea
+dolliv,929,grass,normal,6,119,52,53,60,78,78,33,9,Paldea
+arboliva,930,grass,normal,14,482,78,69,90,125,109,39,9,Paldea
+squawkabilly-green-plumage,931,normal,flying,6,24,82,96,51,45,51,92,9,Paldea
+nacli,932,rock,No Type,4,160,55,55,75,35,35,25,9,Paldea
+naclstack,933,rock,No Type,6,1050,60,60,100,35,65,35,9,Paldea
+garganacl,934,rock,No Type,23,2400,100,100,130,45,90,35,9,Paldea
+charcadet,935,fire,No Type,6,105,40,50,40,50,40,35,9,Paldea
+armarouge,936,fire,psychic,15,850,85,60,100,125,80,75,9,Paldea
+ceruledge,937,fire,ghost,16,620,75,125,80,60,100,85,9,Paldea
+tadbulb,938,electric,No Type,3,4,61,31,41,59,35,45,9,Paldea
+bellibolt,939,electric,No Type,12,1130,109,64,91,103,83,45,9,Paldea
+wattrel,940,electric,flying,4,36,40,40,35,55,40,70,9,Paldea
+kilowattrel,941,electric,flying,14,386,70,70,60,105,60,125,9,Paldea
+maschiff,942,dark,No Type,5,160,60,78,60,40,51,51,9,Paldea
+mabosstiff,943,dark,No Type,11,610,80,120,90,60,70,85,9,Paldea
+shroodle,944,poison,normal,2,7,40,65,35,40,35,75,9,Paldea
+grafaiai,945,poison,normal,7,272,63,95,65,80,72,110,9,Paldea
+bramblin,946,grass,ghost,6,6,40,65,30,45,35,60,9,Paldea
+brambleghast,947,grass,ghost,12,60,55,115,70,80,70,90,9,Paldea
+toedscool,948,ground,grass,9,330,40,40,35,50,100,70,9,Paldea
+toedscruel,949,ground,grass,19,580,80,70,65,80,120,100,9,Paldea
+klawf,950,rock,No Type,13,790,70,100,115,35,55,75,9,Paldea
+capsakid,951,grass,No Type,3,30,50,62,40,62,40,50,9,Paldea
+scovillain,952,grass,fire,9,150,65,108,65,108,65,75,9,Paldea
+rellor,953,bug,No Type,2,10,41,50,60,31,58,30,9,Paldea
+rabsca,954,bug,psychic,3,35,75,50,85,115,100,45,9,Paldea
+flittle,955,psychic,No Type,2,15,30,35,30,55,30,75,9,Paldea
+espathra,956,psychic,No Type,19,900,95,60,60,101,60,105,9,Paldea
+tinkatink,957,fairy,steel,4,89,50,45,45,35,64,58,9,Paldea
+tinkatuff,958,fairy,steel,7,591,65,55,55,45,82,78,9,Paldea
+tinkaton,959,fairy,steel,7,1128,85,75,77,70,105,94,9,Paldea
+wiglett,960,water,No Type,12,18,10,55,25,35,25,95,9,Paldea
+wugtrio,961,water,No Type,12,54,35,100,50,50,70,120,9,Paldea
+bombirdier,962,flying,dark,15,429,70,103,85,60,85,82,9,Paldea
+finizen,963,water,No Type,13,602,70,45,40,45,40,75,9,Paldea
+palafin-zero,964,water,No Type,13,602,100,70,72,53,62,100,9,Paldea
+varoom,965,steel,poison,10,350,45,70,63,30,45,47,9,Paldea
+revavroom,966,steel,poison,18,1200,80,119,90,54,67,90,9,Paldea
+cyclizar,967,dragon,normal,16,630,70,95,65,85,65,121,9,Paldea
+orthworm,968,steel,No Type,25,3100,70,85,145,60,55,65,9,Paldea
+glimmet,969,rock,poison,7,80,48,35,42,105,60,60,9,Paldea
+glimmora,970,rock,poison,15,450,83,55,90,130,81,86,9,Paldea
+greavard,971,ghost,No Type,6,350,50,61,60,30,55,34,9,Paldea
+houndstone,972,ghost,No Type,20,150,72,101,100,50,97,68,9,Paldea
+flamigo,973,flying,fighting,16,370,82,115,74,75,64,90,9,Paldea
+cetoddle,974,ice,No Type,12,450,108,68,45,30,40,43,9,Paldea
+cetitan,975,ice,No Type,45,7000,170,113,65,45,55,73,9,Paldea
+veluza,976,water,psychic,25,900,90,102,73,78,65,70,9,Paldea
+dondozo,977,water,No Type,120,2200,150,100,115,65,65,35,9,Paldea
+tatsugiri-curly,978,dragon,water,3,80,68,50,60,120,95,82,9,Paldea
+annihilape,979,fighting,ghost,12,560,110,115,80,50,90,90,9,Paldea
+clodsire,980,poison,ground,18,2230,130,75,60,45,100,20,9,Paldea
+farigiraf,981,normal,psychic,32,1600,120,90,70,110,70,60,9,Paldea
+dudunsparce-two-segment,982,normal,No Type,36,392,125,100,80,85,75,55,9,Paldea
+kingambit,983,dark,steel,20,1200,100,135,120,60,85,50,9,Paldea
+great-tusk,984,ground,fighting,22,3200,115,131,131,53,53,87,9,Paldea
+scream-tail,985,fairy,psychic,12,80,115,65,99,65,115,111,9,Paldea
+brute-bonnet,986,grass,dark,12,210,111,127,99,79,99,55,9,Paldea
+flutter-mane,987,ghost,fairy,14,40,55,55,55,135,135,135,9,Paldea
+slither-wing,988,bug,fighting,32,920,85,135,79,85,105,81,9,Paldea
+sandy-shocks,989,electric,ground,23,600,85,81,97,121,85,101,9,Paldea
+iron-treads,990,ground,steel,9,2400,90,112,120,72,70,106,9,Paldea
+iron-bundle,991,ice,water,6,110,56,80,114,124,60,136,9,Paldea
+iron-hands,992,fighting,electric,18,3807,154,140,108,50,68,50,9,Paldea
+iron-jugulis,993,dark,flying,13,1110,94,80,86,122,80,108,9,Paldea
+iron-moth,994,fire,poison,12,360,80,70,60,140,110,110,9,Paldea
+iron-thorns,995,rock,electric,16,3030,100,134,110,70,84,72,9,Paldea
+frigibax,996,dragon,ice,5,170,65,75,45,35,45,55,9,Paldea
+arctibax,997,dragon,ice,8,300,90,95,66,45,65,62,9,Paldea
+baxcalibur,998,dragon,ice,21,2100,115,145,92,75,86,87,9,Paldea
+gimmighoul,999,ghost,No Type,3,50,45,30,70,75,70,10,9,Paldea
+gholdengo,1000,steel,ghost,12,300,87,60,95,133,91,84,9,Paldea
+wo-chien,1001,dark,grass,15,742,85,85,100,95,135,70,9,Paldea
+chien-pao,1002,dark,ice,19,1522,80,120,80,90,65,135,9,Paldea
+ting-lu,1003,dark,ground,27,6997,155,110,125,55,80,45,9,Paldea
+chi-yu,1004,dark,fire,4,49,55,80,80,135,120,100,9,Paldea
+roaring-moon,1005,dragon,dark,20,3800,105,139,71,55,101,119,9,Paldea
+iron-valiant,1006,fairy,fighting,14,350,74,130,90,120,60,116,9,Paldea
+koraidon,1007,fighting,dragon,25,3030,100,135,115,85,100,135,9,Paldea
+miraidon,1008,electric,dragon,35,2400,100,85,100,135,115,135,9,Paldea
+walking-wake,1009,water,dragon,35,2800,99,83,91,125,83,109,9,Paldea
+iron-leaves,1010,grass,psychic,15,1250,90,130,88,70,108,104,9,Paldea
+dipplin,1011,grass,dragon,4,97,80,80,110,95,80,40,9,Paldea
+poltchageist,1012,grass,ghost,1,11,40,45,45,74,54,50,9,Paldea
+sinistcha,1013,grass,ghost,2,22,71,60,106,121,80,70,9,Paldea
+okidogi,1014,poison,fighting,18,922,88,128,115,58,86,80,9,Paldea
+munkidori,1015,poison,psychic,10,122,88,75,66,130,90,106,9,Paldea
+fezandipiti,1016,poison,fairy,14,301,88,91,82,70,125,99,9,Paldea
+ogerpon,1017,grass,No Type,12,398,80,120,84,60,96,110,9,Paldea
+archaludon,1018,steel,dragon,20,600,90,105,130,125,65,85,9,Paldea
+hydrapple,1019,grass,dragon,18,930,106,80,110,120,80,44,9,Paldea
+gouging-fire,1020,fire,dragon,35,5900,105,115,121,65,93,91,9,Paldea
+raging-bolt,1021,electric,dragon,52,4800,125,73,91,137,89,75,9,Paldea
+iron-boulder,1022,rock,psychic,15,1625,90,120,80,68,108,124,9,Paldea
+iron-crown,1023,steel,psychic,16,1560,90,72,100,122,108,98,9,Paldea
+terapagos,1024,normal,No Type,2,65,90,65,85,65,85,60,9,Paldea
+pecharunt,1025,poison,ghost,3,3,88,88,160,88,88,88,9,Paldea
+deoxys-attack,10001,psychic,No Type,17,608,50,180,20,180,20,150,Transformation,No Region
+deoxys-defense,10002,psychic,No Type,17,608,50,70,160,70,160,90,Transformation,No Region
+deoxys-speed,10003,psychic,No Type,17,608,50,95,90,95,90,180,Transformation,No Region
+wormadam-sandy,10004,bug,ground,5,65,60,79,105,59,85,36,Transformation,No Region
+wormadam-trash,10005,bug,steel,5,65,60,69,95,69,95,36,Transformation,No Region
+shaymin-sky,10006,grass,flying,4,52,100,103,75,120,75,127,Transformation,No Region
+giratina-origin,10007,ghost,dragon,69,6500,150,120,100,120,100,90,Transformation,No Region
+rotom-heat,10008,electric,fire,3,3,50,65,107,105,107,86,Transformation,No Region
+rotom-wash,10009,electric,water,3,3,50,65,107,105,107,86,Transformation,No Region
+rotom-frost,10010,electric,ice,3,3,50,65,107,105,107,86,Transformation,No Region
+rotom-fan,10011,electric,flying,3,3,50,65,107,105,107,86,Transformation,No Region
+rotom-mow,10012,electric,grass,3,3,50,65,107,105,107,86,Transformation,No Region
+castform-sunny,10013,fire,No Type,3,8,70,70,70,70,70,70,Transformation,No Region
+castform-rainy,10014,water,No Type,3,8,70,70,70,70,70,70,Transformation,No Region
+castform-snowy,10015,ice,No Type,3,8,70,70,70,70,70,70,Transformation,No Region
+basculin-blue-striped,10016,water,No Type,10,180,70,92,65,80,55,98,Transformation,No Region
+darmanitan-zen,10017,fire,psychic,13,929,105,30,105,140,105,55,Transformation,No Region
+meloetta-pirouette,10018,normal,fighting,6,65,100,128,90,77,77,128,Transformation,No Region
+tornadus-therian,10019,flying,No Type,14,630,79,100,80,110,90,121,Transformation,No Region
+thundurus-therian,10020,electric,flying,30,610,79,105,70,145,80,101,Transformation,No Region
+landorus-therian,10021,ground,flying,13,680,89,145,90,105,80,91,Transformation,No Region
+kyurem-black,10022,dragon,ice,33,3250,125,170,100,120,90,95,Transformation,No Region
+kyurem-white,10023,dragon,ice,36,3250,125,120,90,170,100,95,Transformation,No Region
+keldeo-resolute,10024,water,fighting,14,485,91,72,90,129,90,108,Transformation,No Region
+meowstic-female,10025,psychic,No Type,6,85,74,48,76,83,81,104,Transformation,No Region
+aegislash-blade,10026,steel,ghost,17,530,60,140,50,140,50,60,Transformation,No Region
+pumpkaboo-small,10027,ghost,grass,3,35,44,66,70,44,55,56,Transformation,No Region
+pumpkaboo-large,10028,ghost,grass,5,75,54,66,70,44,55,46,Transformation,No Region
+pumpkaboo-super,10029,ghost,grass,8,150,59,66,70,44,55,41,Transformation,No Region
+gourgeist-small,10030,ghost,grass,7,95,55,85,122,58,75,99,Transformation,No Region
+gourgeist-large,10031,ghost,grass,11,140,75,95,122,58,75,69,Transformation,No Region
+gourgeist-super,10032,ghost,grass,17,390,85,100,122,58,75,54,Transformation,No Region
+venusaur-mega,10033,grass,poison,24,1555,80,100,123,122,120,80,Transformation,No Region
+charizard-mega-x,10034,fire,dragon,17,1105,78,130,111,130,85,100,Transformation,No Region
+charizard-mega-y,10035,fire,flying,17,1005,78,104,78,159,115,100,Transformation,No Region
+blastoise-mega,10036,water,No Type,16,1011,79,103,120,135,115,78,Transformation,No Region
+alakazam-mega,10037,psychic,No Type,12,480,55,50,65,175,105,150,Transformation,No Region
+gengar-mega,10038,ghost,poison,14,405,60,65,80,170,95,130,Transformation,No Region
+kangaskhan-mega,10039,normal,No Type,22,1000,105,125,100,60,100,100,Transformation,No Region
+pinsir-mega,10040,bug,flying,17,590,65,155,120,65,90,105,Transformation,No Region
+gyarados-mega,10041,water,dark,65,3050,95,155,109,70,130,81,Transformation,No Region
+aerodactyl-mega,10042,rock,flying,21,790,80,135,85,70,95,150,Transformation,No Region
+mewtwo-mega-x,10043,psychic,fighting,23,1270,106,190,100,154,100,130,Transformation,No Region
+mewtwo-mega-y,10044,psychic,No Type,15,330,106,150,70,194,120,140,Transformation,No Region
+ampharos-mega,10045,electric,dragon,14,615,90,95,105,165,110,45,Transformation,No Region
+scizor-mega,10046,bug,steel,20,1250,70,150,140,65,100,75,Transformation,No Region
+heracross-mega,10047,bug,fighting,17,625,80,185,115,40,105,75,Transformation,No Region
+houndoom-mega,10048,dark,fire,19,495,75,90,90,140,90,115,Transformation,No Region
+tyranitar-mega,10049,rock,dark,25,2550,100,164,150,95,120,71,Transformation,No Region
+blaziken-mega,10050,fire,fighting,19,520,80,160,80,130,80,100,Transformation,No Region
+gardevoir-mega,10051,psychic,fairy,16,484,68,85,65,165,135,100,Transformation,No Region
+mawile-mega,10052,steel,fairy,10,235,50,105,125,55,95,50,Transformation,No Region
+aggron-mega,10053,steel,No Type,22,3950,70,140,230,60,80,50,Transformation,No Region
+medicham-mega,10054,fighting,psychic,13,315,60,100,85,80,85,100,Transformation,No Region
+manectric-mega,10055,electric,No Type,18,440,70,75,80,135,80,135,Transformation,No Region
+banette-mega,10056,ghost,No Type,12,130,64,165,75,93,83,75,Transformation,No Region
+absol-mega,10057,dark,No Type,12,490,65,150,60,115,60,115,Transformation,No Region
+garchomp-mega,10058,dragon,ground,19,950,108,170,115,120,95,92,Transformation,No Region
+lucario-mega,10059,fighting,steel,13,575,70,145,88,140,70,112,Transformation,No Region
+abomasnow-mega,10060,grass,ice,27,1850,90,132,105,132,105,30,Transformation,No Region
+floette-eternal,10061,fairy,No Type,2,9,74,65,67,125,128,92,Transformation,No Region
+latias-mega,10062,dragon,psychic,18,520,80,100,120,140,150,110,Transformation,No Region
+latios-mega,10063,dragon,psychic,23,700,80,130,100,160,120,110,Transformation,No Region
+swampert-mega,10064,water,ground,19,1020,100,150,110,95,110,70,Transformation,No Region
+sceptile-mega,10065,grass,dragon,19,552,70,110,75,145,85,145,Transformation,No Region
+sableye-mega,10066,dark,ghost,5,1610,50,85,125,85,115,20,Transformation,No Region
+altaria-mega,10067,dragon,fairy,15,206,75,110,110,110,105,80,Transformation,No Region
+gallade-mega,10068,psychic,fighting,16,564,68,165,95,65,115,110,Transformation,No Region
+audino-mega,10069,normal,fairy,15,320,103,60,126,80,126,50,Transformation,No Region
+sharpedo-mega,10070,water,dark,25,1303,70,140,70,110,65,105,Transformation,No Region
+slowbro-mega,10071,water,psychic,20,1200,95,75,180,130,80,30,Transformation,No Region
+steelix-mega,10072,steel,ground,105,7400,75,125,230,55,95,30,Transformation,No Region
+pidgeot-mega,10073,normal,flying,22,505,83,80,80,135,80,121,Transformation,No Region
+glalie-mega,10074,ice,No Type,21,3502,80,120,80,120,80,100,Transformation,No Region
+diancie-mega,10075,rock,fairy,11,278,50,160,110,160,110,110,Transformation,No Region
+metagross-mega,10076,steel,psychic,25,9429,80,145,150,105,110,110,Transformation,No Region
+kyogre-primal,10077,water,No Type,98,4300,100,150,90,180,160,90,Transformation,No Region
+groudon-primal,10078,ground,fire,50,9997,100,180,160,150,90,90,Transformation,No Region
+rayquaza-mega,10079,dragon,flying,108,3920,105,180,100,180,100,115,Transformation,No Region
+pikachu-rock-star,10080,electric,No Type,4,60,35,55,40,50,50,90,Transformation,No Region
+pikachu-belle,10081,electric,No Type,4,60,35,55,40,50,50,90,Transformation,No Region
+pikachu-pop-star,10082,electric,No Type,4,60,35,55,40,50,50,90,Transformation,No Region
+pikachu-phd,10083,electric,No Type,4,60,35,55,40,50,50,90,Transformation,No Region
+pikachu-libre,10084,electric,No Type,4,60,35,55,40,50,50,90,Transformation,No Region
+pikachu-cosplay,10085,electric,No Type,4,60,35,55,40,50,50,90,Transformation,No Region
+hoopa-unbound,10086,psychic,dark,65,4900,80,160,60,170,130,80,Transformation,No Region
+camerupt-mega,10087,fire,ground,25,3205,70,120,100,145,105,20,Transformation,No Region
+lopunny-mega,10088,normal,fighting,13,283,65,136,94,54,96,135,Transformation,No Region
+salamence-mega,10089,dragon,flying,18,1126,95,145,130,120,90,120,Transformation,No Region
+beedrill-mega,10090,bug,poison,14,405,65,150,40,15,80,145,Transformation,No Region
+rattata-alola,10091,dark,normal,3,38,30,56,35,25,35,72,Transformation,No Region
+raticate-alola,10092,dark,normal,7,255,75,71,70,40,80,77,Transformation,No Region
+raticate-totem-alola,10093,dark,normal,14,1050,75,71,70,40,80,77,Transformation,No Region
+pikachu-original-cap,10094,electric,No Type,4,60,35,55,40,50,50,90,Transformation,No Region
+pikachu-hoenn-cap,10095,electric,No Type,4,60,35,55,40,50,50,90,Transformation,No Region
+pikachu-sinnoh-cap,10096,electric,No Type,4,60,35,55,40,50,50,90,Transformation,No Region
+pikachu-unova-cap,10097,electric,No Type,4,60,35,55,40,50,50,90,Transformation,No Region
+pikachu-kalos-cap,10098,electric,No Type,4,60,35,55,40,50,50,90,Transformation,No Region
+pikachu-alola-cap,10099,electric,No Type,4,60,35,55,40,50,50,90,Transformation,No Region
+raichu-alola,10100,electric,psychic,7,210,60,85,50,95,85,110,Transformation,No Region
+sandshrew-alola,10101,ice,steel,7,400,50,75,90,10,35,40,Transformation,No Region
+sandslash-alola,10102,ice,steel,12,550,75,100,120,25,65,65,Transformation,No Region
+vulpix-alola,10103,ice,No Type,6,99,38,41,40,50,65,65,Transformation,No Region
+ninetales-alola,10104,ice,fairy,11,199,73,67,75,81,100,109,Transformation,No Region
+diglett-alola,10105,ground,steel,2,10,10,55,30,35,45,90,Transformation,No Region
+dugtrio-alola,10106,ground,steel,7,666,35,100,60,50,70,110,Transformation,No Region
+meowth-alola,10107,dark,No Type,4,42,40,35,35,50,40,90,Transformation,No Region
+persian-alola,10108,dark,No Type,11,330,65,60,60,75,65,115,Transformation,No Region
+geodude-alola,10109,rock,electric,4,203,40,80,100,30,30,20,Transformation,No Region
+graveler-alola,10110,rock,electric,10,1100,55,95,115,45,45,35,Transformation,No Region
+golem-alola,10111,rock,electric,17,3160,80,120,130,55,65,45,Transformation,No Region
+grimer-alola,10112,poison,dark,7,420,80,80,50,40,50,25,Transformation,No Region
+muk-alola,10113,poison,dark,10,520,105,105,75,65,100,50,Transformation,No Region
+exeggutor-alola,10114,grass,dragon,109,4156,95,105,85,125,75,45,Transformation,No Region
+marowak-alola,10115,fire,ghost,10,340,60,80,110,50,80,45,Transformation,No Region
+greninja-battle-bond,10116,water,dark,15,400,72,95,67,103,71,122,Transformation,No Region
+greninja-ash,10117,water,dark,15,400,72,145,67,153,71,132,Transformation,No Region
+zygarde-10-power-construct,10118,dragon,ground,12,335,54,100,71,61,85,115,Transformation,No Region
+zygarde-50-power-construct,10119,dragon,ground,50,3050,108,100,121,81,95,95,Transformation,No Region
+zygarde-complete,10120,dragon,ground,45,6100,216,100,121,91,95,85,Transformation,No Region
+gumshoos-totem,10121,normal,No Type,14,600,88,110,60,55,60,45,Transformation,No Region
+vikavolt-totem,10122,bug,electric,26,1475,77,70,90,145,75,43,Transformation,No Region
+oricorio-pom-pom,10123,electric,flying,6,34,75,70,70,98,70,93,Transformation,No Region
+oricorio-pau,10124,psychic,flying,6,34,75,70,70,98,70,93,Transformation,No Region
+oricorio-sensu,10125,ghost,flying,6,34,75,70,70,98,70,93,Transformation,No Region
+lycanroc-midnight,10126,rock,No Type,11,250,85,115,75,55,75,82,Transformation,No Region
+wishiwashi-school,10127,water,No Type,82,786,45,140,130,140,135,30,Transformation,No Region
+lurantis-totem,10128,grass,No Type,15,580,70,105,90,80,90,45,Transformation,No Region
+salazzle-totem,10129,poison,fire,21,810,68,64,60,111,60,117,Transformation,No Region
+minior-orange-meteor,10130,rock,flying,3,400,60,60,100,60,100,60,Transformation,No Region
+minior-yellow-meteor,10131,rock,flying,3,400,60,60,100,60,100,60,Transformation,No Region
+minior-green-meteor,10132,rock,flying,3,400,60,60,100,60,100,60,Transformation,No Region
+minior-blue-meteor,10133,rock,flying,3,400,60,60,100,60,100,60,Transformation,No Region
+minior-indigo-meteor,10134,rock,flying,3,400,60,60,100,60,100,60,Transformation,No Region
+minior-violet-meteor,10135,rock,flying,3,400,60,60,100,60,100,60,Transformation,No Region
+minior-red,10136,rock,flying,3,3,60,100,60,100,60,120,Transformation,No Region
+minior-orange,10137,rock,flying,3,3,60,100,60,100,60,120,Transformation,No Region
+minior-yellow,10138,rock,flying,3,3,60,100,60,100,60,120,Transformation,No Region
+minior-green,10139,rock,flying,3,3,60,100,60,100,60,120,Transformation,No Region
+minior-blue,10140,rock,flying,3,3,60,100,60,100,60,120,Transformation,No Region
+minior-indigo,10141,rock,flying,3,3,60,100,60,100,60,120,Transformation,No Region
+minior-violet,10142,rock,flying,3,3,60,100,60,100,60,120,Transformation,No Region
+mimikyu-busted,10143,ghost,fairy,2,7,55,90,80,50,105,96,Transformation,No Region
+mimikyu-totem-disguised,10144,ghost,fairy,4,28,55,90,80,50,105,96,Transformation,No Region
+mimikyu-totem-busted,10145,ghost,fairy,4,28,55,90,80,50,105,96,Transformation,No Region
+kommo-o-totem,10146,dragon,fighting,24,2075,75,110,125,100,105,85,Transformation,No Region
+magearna-original,10147,steel,fairy,10,805,80,95,115,130,115,65,Transformation,No Region
+pikachu-partner-cap,10148,electric,No Type,4,60,35,55,40,50,50,90,Transformation,No Region
+marowak-totem,10149,fire,ghost,17,980,60,80,110,50,80,45,Transformation,No Region
+ribombee-totem,10150,bug,fairy,4,20,60,55,60,95,70,124,Transformation,No Region
+rockruff-own-tempo,10151,rock,No Type,5,92,45,65,40,30,40,60,Transformation,No Region
+lycanroc-dusk,10152,rock,No Type,8,250,75,117,65,55,65,110,Transformation,No Region
+araquanid-totem,10153,water,bug,31,2175,68,70,92,50,132,42,Transformation,No Region
+togedemaru-totem,10154,electric,steel,6,130,65,98,63,40,73,96,Transformation,No Region
+necrozma-dusk,10155,psychic,steel,38,4600,97,157,127,113,109,77,Transformation,No Region
+necrozma-dawn,10156,psychic,ghost,42,3500,97,113,109,157,127,77,Transformation,No Region
+necrozma-ultra,10157,psychic,dragon,75,2300,97,167,97,167,97,129,Transformation,No Region
+pikachu-starter,10158,electric,No Type,4,60,45,80,50,75,60,120,Transformation,No Region
+eevee-starter,10159,normal,No Type,3,65,65,75,70,65,85,75,Transformation,No Region
+pikachu-world-cap,10160,electric,No Type,4,60,35,55,40,50,50,90,Transformation,No Region
+meowth-galar,10161,steel,No Type,4,75,50,65,55,40,40,40,Transformation,No Region
+ponyta-galar,10162,psychic,No Type,8,240,50,85,55,65,65,90,Transformation,No Region
+rapidash-galar,10163,psychic,fairy,17,800,65,100,70,80,80,105,Transformation,No Region
+slowpoke-galar,10164,psychic,No Type,12,360,90,65,65,40,40,15,Transformation,No Region
+slowbro-galar,10165,poison,psychic,16,705,95,100,95,100,70,30,Transformation,No Region
+farfetchd-galar,10166,fighting,No Type,8,420,52,95,55,58,62,55,Transformation,No Region
+weezing-galar,10167,poison,fairy,30,160,65,90,120,85,70,60,Transformation,No Region
+mr-mime-galar,10168,ice,psychic,14,568,50,65,65,90,90,100,Transformation,No Region
+articuno-galar,10169,psychic,flying,17,509,90,85,85,125,100,95,Transformation,No Region
+zapdos-galar,10170,fighting,flying,16,582,90,125,90,85,90,100,Transformation,No Region
+moltres-galar,10171,dark,flying,20,660,90,85,90,100,125,90,Transformation,No Region
+slowking-galar,10172,poison,psychic,18,795,95,65,80,110,110,30,Transformation,No Region
+corsola-galar,10173,ghost,No Type,6,5,60,55,100,65,100,30,Transformation,No Region
+zigzagoon-galar,10174,dark,normal,4,175,38,30,41,30,41,60,Transformation,No Region
+linoone-galar,10175,dark,normal,5,325,78,70,61,50,61,100,Transformation,No Region
+darumaka-galar,10176,ice,No Type,7,400,70,90,45,15,45,50,Transformation,No Region
+darmanitan-galar-standard,10177,ice,No Type,17,1200,105,140,55,30,55,95,Transformation,No Region
+darmanitan-galar-zen,10178,ice,fire,17,1200,105,160,55,30,55,135,Transformation,No Region
+yamask-galar,10179,ground,ghost,5,15,38,55,85,30,65,30,Transformation,No Region
+stunfisk-galar,10180,ground,steel,7,205,109,81,99,66,84,32,Transformation,No Region
+zygarde-10,10181,dragon,ground,12,335,54,100,71,61,85,115,Transformation,No Region
+cramorant-gulping,10182,flying,water,8,180,70,85,55,85,95,85,Transformation,No Region
+cramorant-gorging,10183,flying,water,8,180,70,85,55,85,95,85,Transformation,No Region
+toxtricity-low-key,10184,electric,poison,16,400,75,98,70,114,70,75,Transformation,No Region
+eiscue-noice,10185,ice,No Type,14,890,75,80,70,65,50,130,Transformation,No Region
+indeedee-female,10186,psychic,normal,9,280,70,55,65,95,105,85,Transformation,No Region
+morpeko-hangry,10187,electric,dark,3,30,58,95,58,70,58,97,Transformation,No Region
+zacian-crowned,10188,fairy,steel,28,3550,92,150,115,80,115,148,Transformation,No Region
+zamazenta-crowned,10189,fighting,steel,29,7850,92,120,140,80,140,128,Transformation,No Region
+eternatus-eternamax,10190,poison,dragon,1000,0,255,115,250,125,250,130,Transformation,No Region
+urshifu-rapid-strike,10191,fighting,water,19,1050,100,130,100,63,60,97,Transformation,No Region
+zarude-dada,10192,dark,grass,18,700,105,120,105,70,95,105,Transformation,No Region
+calyrex-ice,10193,psychic,ice,24,8091,100,165,150,85,130,50,Transformation,No Region
+calyrex-shadow,10194,psychic,ghost,24,536,100,85,80,165,100,150,Transformation,No Region
+venusaur-gmax,10195,grass,poison,240,10000,80,82,83,100,100,80,Transformation,No Region
+charizard-gmax,10196,fire,flying,280,10000,78,84,78,109,85,100,Transformation,No Region
+blastoise-gmax,10197,water,No Type,250,10000,79,83,100,85,105,78,Transformation,No Region
+butterfree-gmax,10198,bug,flying,170,10000,60,45,50,90,80,70,Transformation,No Region
+pikachu-gmax,10199,electric,No Type,210,10000,35,55,40,50,50,90,Transformation,No Region
+meowth-gmax,10200,normal,No Type,330,10000,40,45,35,40,40,90,Transformation,No Region
+machamp-gmax,10201,fighting,No Type,250,10000,90,130,80,65,85,55,Transformation,No Region
+gengar-gmax,10202,ghost,poison,200,10000,60,65,60,130,75,110,Transformation,No Region
+kingler-gmax,10203,water,No Type,190,10000,55,130,115,50,50,75,Transformation,No Region
+lapras-gmax,10204,water,ice,240,10000,130,85,80,85,95,60,Transformation,No Region
+eevee-gmax,10205,normal,No Type,180,10000,55,55,50,45,65,55,Transformation,No Region
+snorlax-gmax,10206,normal,No Type,350,10000,160,110,65,65,110,30,Transformation,No Region
+garbodor-gmax,10207,poison,No Type,210,10000,80,95,82,60,82,75,Transformation,No Region
+melmetal-gmax,10208,steel,No Type,250,10000,135,143,143,80,65,34,Transformation,No Region
+rillaboom-gmax,10209,grass,No Type,280,10000,100,125,90,60,70,85,Transformation,No Region
+cinderace-gmax,10210,fire,No Type,270,10000,80,116,75,65,75,119,Transformation,No Region
+inteleon-gmax,10211,water,No Type,400,10000,70,85,65,125,65,120,Transformation,No Region
+corviknight-gmax,10212,flying,steel,140,10000,98,87,105,53,85,67,Transformation,No Region
+orbeetle-gmax,10213,bug,psychic,140,10000,60,45,110,80,120,90,Transformation,No Region
+drednaw-gmax,10214,water,rock,240,10000,90,115,90,48,68,74,Transformation,No Region
+coalossal-gmax,10215,rock,fire,420,10000,110,80,120,80,90,30,Transformation,No Region
+flapple-gmax,10216,grass,dragon,240,10000,70,110,80,95,60,70,Transformation,No Region
+appletun-gmax,10217,grass,dragon,240,10000,110,85,80,100,80,30,Transformation,No Region
+sandaconda-gmax,10218,ground,No Type,220,10000,72,107,125,65,70,71,Transformation,No Region
+toxtricity-amped-gmax,10219,electric,poison,240,10000,75,98,70,114,70,75,Transformation,No Region
+centiskorch-gmax,10220,fire,bug,750,10000,100,115,65,90,90,65,Transformation,No Region
+hatterene-gmax,10221,psychic,fairy,260,10000,57,90,95,136,103,29,Transformation,No Region
+grimmsnarl-gmax,10222,dark,fairy,320,10000,95,120,65,95,75,60,Transformation,No Region
+alcremie-gmax,10223,fairy,No Type,300,10000,65,60,75,110,121,64,Transformation,No Region
+copperajah-gmax,10224,steel,No Type,230,10000,122,130,69,80,69,30,Transformation,No Region
+duraludon-gmax,10225,steel,dragon,430,10000,70,95,115,120,50,85,Transformation,No Region
+urshifu-single-strike-gmax,10226,fighting,dark,290,10000,100,130,100,63,60,97,Transformation,No Region
+urshifu-rapid-strike-gmax,10227,fighting,water,260,10000,100,130,100,63,60,97,Transformation,No Region
+toxtricity-low-key-gmax,10228,electric,poison,240,10000,75,98,70,114,70,75,Transformation,No Region
+growlithe-hisui,10229,fire,rock,8,227,60,75,45,65,50,55,Transformation,No Region
+arcanine-hisui,10230,fire,rock,20,1680,95,115,80,95,80,90,Transformation,No Region
+voltorb-hisui,10231,electric,grass,5,130,40,30,50,55,55,100,Transformation,No Region
+electrode-hisui,10232,electric,grass,12,710,60,50,70,80,80,150,Transformation,No Region
+typhlosion-hisui,10233,fire,ghost,16,698,73,84,78,119,85,95,Transformation,No Region
+qwilfish-hisui,10234,dark,poison,5,39,65,95,85,55,55,85,Transformation,No Region
+sneasel-hisui,10235,fighting,poison,9,270,55,95,55,35,75,115,Transformation,No Region
+samurott-hisui,10236,water,dark,15,582,90,108,80,100,65,85,Transformation,No Region
+lilligant-hisui,10237,grass,fighting,12,192,70,105,75,50,75,105,Transformation,No Region
+zorua-hisui,10238,normal,ghost,7,125,35,60,40,85,40,70,Transformation,No Region
+zoroark-hisui,10239,normal,ghost,16,730,55,100,60,125,60,110,Transformation,No Region
+braviary-hisui,10240,psychic,flying,17,434,110,83,70,112,70,65,Transformation,No Region
+sliggoo-hisui,10241,steel,dragon,7,685,58,75,83,83,113,40,Transformation,No Region
+goodra-hisui,10242,steel,dragon,17,3341,80,100,100,110,150,60,Transformation,No Region
+avalugg-hisui,10243,ice,rock,14,2624,95,127,184,34,36,38,Transformation,No Region
+decidueye-hisui,10244,grass,fighting,16,370,88,112,80,95,95,60,Transformation,No Region
+dialga-origin,10245,steel,dragon,70,8487,100,100,120,150,120,90,Transformation,No Region
+palkia-origin,10246,water,dragon,63,6590,90,100,100,150,120,120,Transformation,No Region
+basculin-white-striped,10247,water,No Type,10,180,70,92,65,80,55,98,Transformation,No Region
+basculegion-female,10248,water,ghost,30,1100,120,92,65,100,75,78,Transformation,No Region
+enamorus-therian,10249,fairy,flying,16,480,74,115,110,135,100,46,Transformation,No Region
+tauros-paldea-combat-breed,10250,fighting,No Type,14,1150,75,110,105,30,70,100,Transformation,No Region
+tauros-paldea-blaze-breed,10251,fighting,fire,14,850,75,110,105,30,70,100,Transformation,No Region
+tauros-paldea-aqua-breed,10252,fighting,water,14,1100,75,110,105,30,70,100,Transformation,No Region
+wooper-paldea,10253,poison,ground,4,110,55,45,45,25,25,15,Transformation,No Region
+oinkologne-female,10254,normal,No Type,10,1200,115,90,70,59,90,65,Transformation,No Region
+dudunsparce-three-segment,10255,normal,No Type,45,474,125,100,80,85,75,55,Transformation,No Region
+palafin-hero,10256,water,No Type,18,974,100,160,97,106,87,100,Transformation,No Region
+maushold-family-of-three,10257,normal,No Type,3,28,74,75,70,65,75,111,Transformation,No Region
+tatsugiri-droopy,10258,dragon,water,3,80,68,50,60,120,95,82,Transformation,No Region
+tatsugiri-stretchy,10259,dragon,water,3,80,68,50,60,120,95,82,Transformation,No Region
+squawkabilly-blue-plumage,10260,normal,flying,6,24,82,96,51,45,51,92,Transformation,No Region
+squawkabilly-yellow-plumage,10261,normal,flying,6,24,82,96,51,45,51,92,Transformation,No Region
+squawkabilly-white-plumage,10262,normal,flying,6,24,82,96,51,45,51,92,Transformation,No Region
+gimmighoul-roaming,10263,ghost,No Type,1,10,45,30,25,75,45,80,Transformation,No Region
+koraidon-limited-build,10264,fighting,dragon,35,3030,100,135,115,85,100,135,Transformation,No Region
+koraidon-sprinting-build,10265,fighting,dragon,35,3030,100,135,115,85,100,135,Transformation,No Region
+koraidon-swimming-build,10266,fighting,dragon,35,3030,100,135,115,85,100,135,Transformation,No Region
+koraidon-gliding-build,10267,fighting,dragon,35,3030,100,135,115,85,100,135,Transformation,No Region
+miraidon-low-power-mode,10268,electric,dragon,28,2400,100,85,100,135,115,135,Transformation,No Region
+miraidon-drive-mode,10269,electric,dragon,28,2400,100,85,100,135,115,135,Transformation,No Region
+miraidon-aquatic-mode,10270,electric,dragon,28,2400,100,85,100,135,115,135,Transformation,No Region
+miraidon-glide-mode,10271,electric,dragon,28,2400,100,85,100,135,115,135,Transformation,No Region
+ursaluna-bloodmoon,10272,ground,normal,24,2900,113,70,120,135,65,52,Transformation,No Region
+ogerpon-wellspring-mask,10273,grass,water,12,398,80,120,84,60,96,110,Transformation,No Region
+ogerpon-hearthflame-mask,10274,grass,fire,12,398,80,120,84,60,96,110,Transformation,No Region
+ogerpon-cornerstone-mask,10275,grass,rock,12,398,80,120,84,60,96,110,Transformation,No Region
+terapagos-terastal,10276,normal,No Type,3,160,95,95,110,105,110,85,Transformation,No Region
+terapagos-stellar,10277,normal,No Type,17,770,95,95,110,105,110,85,Transformation,No Region

@@ -1,0 +1,6 @@
+Install the following
+
+pip install pandas
+pip install dash
+pip install dependency-dash
+pip install flask
